@@ -3,7 +3,7 @@
 
 Awesome list of open-source startups challenging big closed-sourced brothers. Maintained by folks at [Runa Capital](https://runacap.com/). 
 
-Also checkout the [ROSS index](https://runacap.com/ross-index/): the fastest-growing open-source startups, every quarter.
+Also checkout [ROSS index](https://runacap.com/ross-index/): the fastest-growing open-source startups, every quarter.
 
 Here we add only open source projects that satisfy two criteria:
 1. Project must be commercial (it has paid offering or explicitly states willingnes to add paid features in the future)
