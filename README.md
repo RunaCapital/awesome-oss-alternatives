@@ -31,14 +31,14 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 **[`^        back to top        ^`](#)**
 
-- [Supertokens](https://supertokens.io/) - Add simple email and password sign up functionality to your site or app in 15 minutes ([repo](https://github.com/supertokens/supertokens-core)) [![](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social)](https://github.com/supertokens/supertokens-core)
+- [Supertokens](https://supertokens.io/) (YCS20) - Add simple email and password sign up functionality to your site or app in 15 minutes ([repo](https://github.com/supertokens/supertokens-core)) [![](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social)](https://github.com/supertokens/supertokens-core)
 
 ### Backend-as-a-service
 #### Alternative to: [Firebase](https://firebase.google.com/)
 
 **[`^        back to top        ^`](#)**
 
-- [Supabase](https://supabase.io/) - Create a backend in less than 2 minutes. Firebase alternative ([repo](https://github.com/supabase/supabase)) [![](https://img.shields.io/github/stars/supabase/supabase?style=social)](https://github.com/supabase/supabase)
+- [Supabase](https://supabase.io/) (YCS20) - Create a backend in less than 2 minutes. Firebase alternative ([repo](https://github.com/supabase/supabase)) [![](https://img.shields.io/github/stars/supabase/supabase?style=social)](https://github.com/supabase/supabase)
 
 - [Appwrite](https://appwrite.io/) - Appwrite is a self-hosted solution that provides developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs ([repo](https://github.com/appwrite/appwrite)) [![](https://img.shields.io/github/stars/appwrite/appwrite?style=social)](https://github.com/appwrite/appwrite)
 
@@ -56,7 +56,7 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 **[`^        back to top        ^`](#)**
 
-- [Chatwoot](https://www.chatwoot.com/) - Customer engagement platform that helps companies engage their customers on their website, Facebook page, Twitter, Whatsapp and SMS ([repo](https://github.com/chatwoot/chatwoot)) [![](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social)](https://github.com/chatwoot/chatwoot)
+- [Chatwoot](https://www.chatwoot.com/) (YCW21) - Customer engagement platform that helps companies engage their customers on their website, Facebook page, Twitter, Whatsapp and SMS ([repo](https://github.com/chatwoot/chatwoot)) [![](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social)](https://github.com/chatwoot/chatwoot)
 
 - [Papercups](https://papercups.io/) - Live chat widget. Chat with your customers to improve conversions and customer satisfaction ([repo](https://github.com/papercups-io/papercups)) [![](https://img.shields.io/github/stars/papercups-io/papercups?style=social)](https://github.com/papercups-io/papercups)
 
@@ -69,7 +69,7 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 - [Saleor](https://saleor.io/) - a modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React ([repo](https://github.com/saleor/saleor)) [![](https://img.shields.io/github/stars/saleor/saleor?style=social)](https://github.com/saleor/saleor)
 
-- [VueStoreFront](https://www.vuestorefront.io/) - the open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack ([repo](https://github.com/vuestorefront/vue-storefront)) [![](https://img.shields.io/github/stars/vuestorefront/vue-storefront?style=social)](https://github.com/vuestorefront/vue-storefront)
+- [VueStoreFront](https://www.vuestorefront.io/) (YCW21) - the open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack ([repo](https://github.com/vuestorefront/vue-storefront)) [![](https://img.shields.io/github/stars/vuestorefront/vue-storefront?style=social)](https://github.com/vuestorefront/vue-storefront)
 
 - [Sylius](https://sylius.com/) - eCommerce platform built on Symfony ([repo](https://github.com/sylius/sylius)) [![](https://img.shields.io/github/stars/sylius/sylius?style=social)](https://github.com/sylius/sylius)
 
@@ -80,7 +80,7 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 **[`^        back to top        ^`](#)**
 
-- [Airbyte](https://airbyte.io/) - Turnkey data integration platform that gives your infrastructure super powers to move data seamlessly ([repo](https://github.com/airbytehq/airbyte)) [![](https://img.shields.io/github/stars/airbytehq/airbyte?style=social)](https://github.com/airbytehq/airbyte)
+- [Airbyte](https://airbyte.io/) (YCW20) - Turnkey data integration platform that gives your infrastructure super powers to move data seamlessly ([repo](https://github.com/airbytehq/airbyte)) [![](https://img.shields.io/github/stars/airbytehq/airbyte?style=social)](https://github.com/airbytehq/airbyte)
 
 - [Orchest](https://www.orchest.io/) - Build data pipelines, the easy way ([repo](https://github.com/orchest/orchest)) [![](https://img.shields.io/github/stars/orchest/orchest?style=social)](https://github.com/orchest/orchest)
 
@@ -100,7 +100,7 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 - [Cube.js](https://cube.dev/) - Customer‑facing analytics features and business intelligence tools on top of your cloud data warehouse ([repo](https://github.com/cube-js/cube.js)) [![](https://img.shields.io/github/stars/cube-js/cube.js?style=social)](https://github.com/cube-js/cube.js)
 
-- [LightDash](https://www.lightdash.com/) - Connect your dbt project to Lightdash and allow everyone to answer their own data questions. Built for analysts and the modern data stack ([repo](https://github.com/lightdash/lightdash)) [![](https://img.shields.io/github/stars/lightdash/lightdash?style=social)](https://github.com/lightdash/lightdash)
+- [LightDash](https://www.lightdash.com/) (YCS20) - Connect your dbt project to Lightdash and allow everyone to answer their own data questions. Built for analysts and the modern data stack ([repo](https://github.com/lightdash/lightdash)) [![](https://img.shields.io/github/stars/lightdash/lightdash?style=social)](https://github.com/lightdash/lightdash)
 
 - [MLCraft](http://mlcraft.io/) - Low-code metrics layer, modern open-source alternative to Looker ([repo](https://github.com/mlcraft-io/mlcraft)) [![](https://img.shields.io/github/stars/mlcraft-io/mlcraft?style=social)](https://github.com/mlcraft-io/mlcraft)
 
@@ -133,7 +133,7 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 #### Alternative to: [FullStory](https://www.fullstory.com/)
 **[`^        back to top        ^`](#)**
 
-- [OpenReplay](https://openreplay.com/) - session replay stack that lets you see and debug what users do on your web app, helping you troubleshoot issues faster ([repo](https://github.com/openreplay/openreplay)) [![](https://img.shields.io/github/stars/openreplay/openreplay?style=social)](https://github.com/openreplay/openreplay)
+- [OpenReplay](https://openreplay.com/) (YCS19) - session replay stack that lets you see and debug what users do on your web app, helping you troubleshoot issues faster ([repo](https://github.com/openreplay/openreplay)) [![](https://img.shields.io/github/stars/openreplay/openreplay?style=social)](https://github.com/openreplay/openreplay)
 
 ### Streaming
 #### Alternative to: [Twitch](https://www.twitch.tv/)
@@ -147,7 +147,7 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 **[`^        back to top        ^`](#)**
 
-- [Signoz](https://signoz.io/) - Observability platform to help you find issues in your deployed applications & solve them quickly ([repo](https://github.com/signoz/signoz)) [![](https://img.shields.io/github/stars/signoz/signoz?style=social)](https://github.com/signoz/signoz)
+- [Signoz](https://signoz.io/) (YCW21) - Observability platform to help you find issues in your deployed applications & solve them quickly ([repo](https://github.com/signoz/signoz)) [![](https://img.shields.io/github/stars/signoz/signoz?style=social)](https://github.com/signoz/signoz)
 
 ### Website analytics
 #### Alternative to: [Google Analytics](https://analytics.google.com/)
