@@ -62,6 +62,19 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 - [Chaskiq](https://chaskiq.io/) - Messaging Platform for Marketing, Support & Sales ([repo](https://github.com/chaskiq/chaskiq)) [![](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social)](https://github.com/chaskiq/chaskiq)
 
+### E-commerce
+#### Alternative to: [Shopify](https://www.shopify.com/), [Shogan](https://getshogun.com/), [Ecwid](https://www.ecwid.com/)
+
+**[`^        back to top        ^`](#)**
+
+- [Saleor](https://saleor.io/) - a modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React ([repo](https://github.com/saleor/saleor)) [![](https://img.shields.io/github/stars/saleor/saleor?style=social)](https://github.com/saleor/saleor)
+
+- [VueStoreFront](https://www.vuestorefront.io/) - the open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack ([repo](https://github.com/vuestorefront/vue-storefront)) [![](https://img.shields.io/github/stars/vuestorefront/vue-storefront?style=social)](https://github.com/vuestorefront/vue-storefront)
+
+- [Sylius](https://sylius.com/) - eCommerce platform built on Symfony ([repo](https://github.com/sylius/sylius)) [![](https://img.shields.io/github/stars/sylius/sylius?style=social)](https://github.com/sylius/sylius)
+
+- [Shuup](https://shuup.com) -  e-commerce platform based on Django and Python ([repo](https://github.com/shuup/shuup)) [![](https://img.shields.io/github/stars/shuup/shuup?style=social)](https://github.com/shuup/shuup)
+
 ### ELT / ETL
 #### Alternative to: [Fivetran](https://fivetran.com/)
 
@@ -93,11 +106,57 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 - [MetriQL](https://metriql.com/) - Headless BI. Model your data once and consume it wherever you want ([repo](https://github.com/metriql/metriql)) [![](https://img.shields.io/github/stars/metriql/metriql?style=social)](https://github.com/metriql/metriql)
 
+### Notetaking software
+#### Alternative to: [Notion](https://www.notion.so/)
+
+**[`^        back to top        ^`](#)**
+
+- [AppFlowy](https://www.appflowy.io/) - open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust ([repo](https://github.com/AppFlowy-IO/appflowy)) [![](https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social)](https://github.com/AppFlowy-IO/appflowy)
+
+#### Alternative to: [Roam Research](https://roamresearch.com/)
+- [Athens Research](https://www.athensresearch.org/) (YCW21) -  knowledge graph for research and notetaking. Athens is open-source, private, extensible, and community-driven ([repo](https://github.com/athensresearch/athens)) [![](https://img.shields.io/github/stars/athensresearch/athens?style=social)](https://github.com/athensresearch/athens) 
+
+### Search
+#### Alternative to: [Algolia](https://www.algolia.com/)
+**[`^        back to top        ^`](#)**
+
+- [MeiliSearch](https://www.meilisearch.com/) - powerful, fast, and an easy to use search engine ([repo](https://github.com/meilisearch/MeiliSearch)) [![](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social)](https://github.com/meilisearch/meilisearch)
+
+- [Jina.ai](https://jina.ai/) - cloud-native neural search framework for 𝙖𝙣𝙮 kind of data (including images) ([repo](https://github.com/jina-ai/jina)) [![](https://img.shields.io/github/stars/jina-ai/jina?style=social)](https://github.com/jina-ai/jina)
+
+- [TypeSense](https://typesense.org/) - fast, typo tolerant, fuzzy search engine for building delightful search experiences ([repo](https://github.com/typesense/typesense)) [![](https://img.shields.io/github/stars/typesense/typesense?style=social)](https://github.com/typesense/typesense)
+
+- [AppBase](https://www.appbase.io/) - search UI components for React and Vue: powered by appbase.io / Elasticsearch (backend of AppBase is closed-source) ([repo](https://github.com/appbaseio/reactivesearch)) [![](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=social)](https://github.com/appbaseio/reactivesearch)
+
+
+### Session replay software
+#### Alternative to: [FullStory](https://www.fullstory.com/)
+**[`^        back to top        ^`](#)**
+
+- [OpenReplay](https://openreplay.com/) - session replay stack that lets you see and debug what users do on your web app, helping you troubleshoot issues faster ([repo](https://github.com/openreplay/openreplay)) [![](https://img.shields.io/github/stars/openreplay/openreplay?style=social)](https://github.com/openreplay/openreplay)
+
+### Streaming
+#### Alternative to: [Twitch](https://www.twitch.tv/)
+**[`^        back to top        ^`](#)**
+
+- [Glimesh](https://glimesh.tv/) - next generation live streaming platform built by the community, for the community ([repo](https://github.com/glimesh/glimesh.tv)) [![](https://img.shields.io/github/stars/glimesh/glimesh.tv?style=social)](https://github.com/glimesh/glimesh.tv)
+
 
 ### Observability and monitoring
 #### Alternative to: [DataDog](https://www.datadoghq.com/), [NewRelic](https://newrelic.com/)
 
 **[`^        back to top        ^`](#)**
 
-- [Signoz](https://www.getunleash.io/) - Observability platform to help you find issues in your deployed applications & solve them quickly ([repo](https://github.com/signoz/signoz)) [![](https://img.shields.io/github/stars/signoz/signoz?style=social)](https://github.com/signoz/signoz)
+- [Signoz](https://signoz.io/) - Observability platform to help you find issues in your deployed applications & solve them quickly ([repo](https://github.com/signoz/signoz)) [![](https://img.shields.io/github/stars/signoz/signoz?style=social)](https://github.com/signoz/signoz)
+
+### Website analytics
+#### Alternative to: [Google Analytics](https://analytics.google.com/)
+
+**[`^        back to top        ^`](#)**
+
+- [Matomo](https://matomo.org/) - Google Analytics alternative that protects your data and your customers' privacy ([repo](https://github.com/matomo-org/matomo)) [![](https://img.shields.io/github/stars/matomo-org/matomo?style=social)](https://github.com/matomo-org/matomo)
+
+- [Plausible](https://plausible.io/) - simple and privacy-friendly Google Analytics alternative ([repo](https://github.com/plausible/analytics)) [![](https://img.shields.io/github/stars/plausible/analytics?style=social)](https://github.com/plausible/analytics)
+
+- [Umami](https://umami.is) - simple and fast website analytics alternative to Google Analytics ([repo](https://github.com/mikecao/umami)) [![](https://img.shields.io/github/stars/mikecao/umami?style=social)](https://github.com/mikecao/umami)
 
