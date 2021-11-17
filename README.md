@@ -132,8 +132,6 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 - [Tooljet](https://tooljet.io/) - open-source low-code framework to build & deploy internal tools within minutes ([repo](https://github.com/tooljet/tooljet)) [![](https://img.shields.io/github/stars/tooljet/tooljet?style=social)](https://github.com/tooljet/tooljet)
 - [Lowdefy](https://lowdefy.com/) - open-source low-code framework to build web apps, admin panels, BI dashboards, workflows, and CRUD apps using YAML ([repo](https://github.com/lowdefy/lowdefy)) [![](https://img.shields.io/github/stars/lowdefy/lowdefy?style=social)](https://github.com/lowdefy/lowdefy)
 
-Watch 3 Min Video
-
 ### Search
 #### Alternative to: [Algolia](https://www.algolia.com/)
 **[`^        back to top        ^`](#)**
