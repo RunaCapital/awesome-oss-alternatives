@@ -5,8 +5,10 @@ Awesome list of open-source startups which substitute big closed-sourced brother
 
 Also checkout the [ROSS index](https://runacap.com/ross-index/): fastest-growing open-source startups, every quarter.
 
+## Criterion to be added
+
 Here we add only open-source projects that satisfy the following criteria:
-1. Project must be commercial (it has paid offering or explicitly states willingnes to add paid features in the future)
+1. Project must be commercial (paid offering, willingness to add paid features, funding)
 2. Project must have a closed-sourced competitor (well-known company or product that at least shares a subset of features with the project)
 3. Project must be a startup (private independent company founded less than 10 years ago and raised less than $100M in total known funding)
 
@@ -81,6 +83,8 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 **[`^        back to top        ^`](#)**
 
 - [Airbyte](https://airbyte.io/) (YCW20) - Turnkey data integration platform that gives your infrastructure super powers to move data seamlessly ([repo](https://github.com/airbytehq/airbyte)) [![](https://img.shields.io/github/stars/airbytehq/airbyte?style=social)](https://github.com/airbytehq/airbyte)
+
+- [Dagster](https://dagster.io/) - Orchestration platform for the development, production, and observation of data assets ([repo](https://github.com/dagster-io/dagster)) [![](https://img.shields.io/github/stars/dagster-io/dagster?style=social)](https://github.com/dagster-io/dagster)
 
 - [Orchest](https://www.orchest.io/) - Build data pipelines, the easy way ([repo](https://github.com/orchest/orchest)) [![](https://img.shields.io/github/stars/orchest/orchest?style=social)](https://github.com/orchest/orchest)
 
@@ -175,4 +179,12 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 - [Plausible](https://plausible.io/) - simple and privacy-friendly Google Analytics alternative ([repo](https://github.com/plausible/analytics)) [![](https://img.shields.io/github/stars/plausible/analytics?style=social)](https://github.com/plausible/analytics)
 
 - [Umami](https://umami.is) - simple and fast website analytics alternative to Google Analytics ([repo](https://github.com/mikecao/umami)) [![](https://img.shields.io/github/stars/mikecao/umami?style=social)](https://github.com/mikecao/umami)
+
+
+### Workflow automation
+#### Alternative to: [Zapier](https://zapier.com/)
+
+**[`^        back to top        ^`](#)**
+
+- [n8n](https://n8n.io/) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services ([repo](https://github.com/n8n-io/n8n)) [![](https://img.shields.io/github/stars/n8n-io/n8n?style=social)](https://github.com/n8n-io/n8n)
 
