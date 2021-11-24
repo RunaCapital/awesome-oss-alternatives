@@ -240,5 +240,5 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 **[`^        back to top        ^`](#)**
 
-- [n8n](https://n8n.io/) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services ([repo](https://github.com/n8n-io/n8n)) [![](https://img.shields.io/github/stars/n8n-io/n8n?style=social)](https://github.com/n8n-io/n8n) [![Generic badge](https://img.shields.io/badge/Portfolio-Runa_Capital-red.svg)](https://runacap.com/companies/n8n/)
+- [n8n](https://n8n.io/) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services ([repo](https://github.com/n8n-io/n8n)) [![](https://img.shields.io/github/stars/n8n-io/n8n?style=social)](https://github.com/n8n-io/n8n)
 - [Temporal](https://temporal.io/) - open-source microservice orchestration platform for writing durable workflows as code ([repo](https://github.com/temporalio/temporal)) [![](https://img.shields.io/github/stars/temporalio/temporal?style=social)](https://github.com/temporalio/temporal) 
