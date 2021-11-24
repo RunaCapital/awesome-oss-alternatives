@@ -32,8 +32,8 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 #### Alternative to: [Okta](https://okta.com/), [Auth0](https://auth0.com/)
 
 **[`^        back to top        ^`](#)**
-
 - [Supertokens](https://supertokens.io/) (YCS20) - Add simple email and password sign up functionality to your site or app in 15 minutes ([repo](https://github.com/supertokens/supertokens-core)) [![](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social)](https://github.com/supertokens/supertokens-core)
+- [Oso](https://github.com/osohq/oso) - batteries-included framework for building authorization in your application ([repo](https://github.com/osohq/oso)) [![](https://img.shields.io/github/stars/osohq/oso?style=social)](https://github.com/osohq/oso)
 
 ### Backend-as-a-service
 #### Alternative to: [Firebase](https://firebase.google.com/)
@@ -52,6 +52,23 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 **[`^        back to top        ^`](#)**
 
 - [Metabase](https://www.metabase.com/) - Connect to your existing data, invite your team, and you have a BI solution that would usually take a sales call ([repo](https://github.com/metabase/metabase)) [![](https://img.shields.io/github/stars/metabase/metabase?style=social)](https://github.com/metabase/metabase)
+
+### CMS
+#### Alternative to: [Contentfull](https://www.contentful.com/)
+
+**[`^        back to top        ^`](#)**
+
+- [Strapi](https://strapi.io/) - open-source Node.js Headless CMS to easily build customisable APIs ([repo](https://github.com/strapi/strapi)) [![](https://img.shields.io/github/stars/strapi/strapi?style=social)](https://github.com/strapi/strapi)
+
+- [Netlify CMS](https://www.netlifycms.org/) - git-based CMS for static site generators ([repo](https://github.com/netlify/netlify-cms)) [![](https://img.shields.io/github/stars/netlify/netlify-cms?style=social)](https://github.com/netlify/netlify-cms)
+
+- [Directus](https://directus.io/) - open-source data platform. Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users ([repo](https://github.com/directus/directus)) [![](https://img.shields.io/github/stars/directus/directus?style=social)](https://github.com/directus/directus)
+
+- [Tina](https://tina.io/) - open-source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality [repo](https://github.com/tinacms/tinacms)) [![](https://img.shields.io/github/stars/tinacms/tinacms?style=social)](https://github.com/tinacms/tinacms)
+
+- [Webiny](https://www.webiny.com/) (YCW21) - enterprise open-source serverless CMS. Includes a headless CMS, page builder, form builder and file manager. Easy to customize and expand. Deploys to AWS [repo](https://github.com/webiny/webiny-js)) [![](https://img.shields.io/github/stars/webiny/webiny-js?style=social)](https://github.com/webiny/webiny-js)
+
+- [Builder](https://builder.io/) - drag and drop page builder and CMS for React, Vue, Angular, and more [repo](https://github.com/builderio/builder)) [![](https://img.shields.io/github/stars/builderio/builder?style=social)](https://github.com/builderio/builder)
 
 ### Customer Engagement
 #### Alternative to: [Intercom](https://www.intercom.com/), [Zendesk](https://www.zendesk.com/)
@@ -82,6 +99,8 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 **[`^        back to top        ^`](#)**
 
+- [Prefect](https://www.prefect.io/) - the easiest way to automate your data ([repo](https://github.com/prefecthq/prefect)) [![](https://img.shields.io/github/stars/prefecthq/prefect?style=social)](https://github.com/prefecthq/prefect)
+
 - [Airbyte](https://airbyte.io/) (YCW20) - Turnkey data integration platform that gives your infrastructure super powers to move data seamlessly ([repo](https://github.com/airbytehq/airbyte)) [![](https://img.shields.io/github/stars/airbytehq/airbyte?style=social)](https://github.com/airbytehq/airbyte)
 
 - [Dagster](https://dagster.io/) - Orchestration platform for the development, production, and observation of data assets ([repo](https://github.com/dagster-io/dagster)) [![](https://img.shields.io/github/stars/dagster-io/dagster?style=social)](https://github.com/dagster-io/dagster)
@@ -110,6 +129,13 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 - [MetriQL](https://metriql.com/) - Headless BI. Model your data once and consume it wherever you want ([repo](https://github.com/metriql/metriql)) [![](https://img.shields.io/github/stars/metriql/metriql?style=social)](https://github.com/metriql/metriql)
 
+### ML Deployments
+#### Alternative to: [AWS SageMaker](https://aws.amazon.com/sagemaker/)
+
+**[`^        back to top        ^`](#)**
+
+- [Cortex](https://www.cortex.dev/) - production infrastructure for machine learning at scale ([repo](https://github.com/cortexlabs/cortex)) [![](https://img.shields.io/github/stars/cortexlabs/cortex?style=social)](https://github.com/cortexlabs/cortex)
+
 ### Notetaking software
 #### Alternative to: [Notion](https://www.notion.so/)
 
@@ -136,6 +162,14 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 - [Tooljet](https://tooljet.io/) - open-source low-code framework to build & deploy internal tools within minutes ([repo](https://github.com/tooljet/tooljet)) [![](https://img.shields.io/github/stars/tooljet/tooljet?style=social)](https://github.com/tooljet/tooljet)
 - [Lowdefy](https://lowdefy.com/) - open-source low-code framework to build web apps, admin panels, BI dashboards, workflows, and CRUD apps using YAML ([repo](https://github.com/lowdefy/lowdefy)) [![](https://img.shields.io/github/stars/lowdefy/lowdefy?style=social)](https://github.com/lowdefy/lowdefy)
 
+### Password manager
+#### Alternative to: [1Password](https://1password.com/)
+**[`^        back to top        ^`](#)**
+
+- [Passbolt](https://www.passbolt.com/) - the password manager your team was waiting for. Free, open source, self-hosted, extensible, OpenPGP based ([repo](https://github.com/passbolt/passbolt_api)) [![](https://img.shields.io/github/stars/passbolt/passbolt_api?style=social)](https://github.com/passbolt/passbolt_api)
+
+- [BitWarden](https://bitwarden.com/) - the easiest and safest way for teams and individuals to store and share sensitive data from any device [repo](https://github.com/bitwarden/server)) [![](https://img.shields.io/github/stars/bitwarden/server?style=social)](https://github.com/bitwarden/server)
+
 ### Product Analytics
 #### Alternative to: [Amplitude](https://amplitude.com/), [MixPanel](https://mixpanel.com/)
 **[`^        back to top        ^`](#)**
@@ -147,6 +181,12 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 **[`^        back to top        ^`](#)**
 
 - [RoboCorp](https://robocorp.com/) - set of tooling that allows you to create, manage, and distribute Python-based self-contained automation packages - or 'robots' as we call them ([repo](https://github.com/robocorp/rcc)) [![](https://img.shields.io/github/stars/robocorp/rcc?style=social)](https://github.com/robocorp/rcc)
+
+### Scheduling software
+#### Alternative to: [Calendly](https://calendly.com/)
+**[`^        back to top        ^`](#)**
+
+- [Calendso](https://cal.com/) - scheduling infrastructure for absolutely everyone ([repo](https://github.com/calendso/calendso)) [![](https://img.shields.io/github/stars/calendso/calendso?style=social)](https://github.com/calendso/calendso)
 
 ### Search
 #### Alternative to: [Algolia](https://www.algolia.com/)
@@ -201,4 +241,4 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 **[`^        back to top        ^`](#)**
 
 - [n8n](https://n8n.io/) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services ([repo](https://github.com/n8n-io/n8n)) [![](https://img.shields.io/github/stars/n8n-io/n8n?style=social)](https://github.com/n8n-io/n8n) [![Generic badge](https://img.shields.io/badge/Portfolio-Runa_Capital-red.svg)](https://runacap.com/companies/n8n/)
-
+- [Temporal](https://temporal.io/) - open-source microservice orchestration platform for writing durable workflows as code ([repo](https://github.com/temporalio/temporal)) [![](https://img.shields.io/github/stars/temporalio/temporal?style=social)](https://github.com/temporalio/temporal) 
