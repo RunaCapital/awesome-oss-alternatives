@@ -136,6 +136,18 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 - [Tooljet](https://tooljet.io/) - open-source low-code framework to build & deploy internal tools within minutes ([repo](https://github.com/tooljet/tooljet)) [![](https://img.shields.io/github/stars/tooljet/tooljet?style=social)](https://github.com/tooljet/tooljet)
 - [Lowdefy](https://lowdefy.com/) - open-source low-code framework to build web apps, admin panels, BI dashboards, workflows, and CRUD apps using YAML ([repo](https://github.com/lowdefy/lowdefy)) [![](https://img.shields.io/github/stars/lowdefy/lowdefy?style=social)](https://github.com/lowdefy/lowdefy)
 
+### Product Analytics
+#### Alternative to: [Amplitude](https://amplitude.com/), [MixPanel](https://mixpanel.com/)
+**[`^        back to top        ^`](#)**
+
+- [PostHog](https://posthog.com/) - open-source product analytics that you can self-host ([repo](https://github.com/PostHog/posthog)) [![](https://img.shields.io/github/stars/PostHog/posthog?style=social)](https://github.com/PostHog/posthog)
+
+### Robotic Process Automation (RPA)
+#### Alternative to: [UiPath](https://www.uipath.com/)
+**[`^        back to top        ^`](#)**
+
+- [RoboCorp](https://robocorp.com/) - set of tooling that allows you to create, manage, and distribute Python-based self-contained automation packages - or 'robots' as we call them ([repo](https://github.com/robocorp/rcc)) [![](https://img.shields.io/github/stars/robocorp/rcc?style=social)](https://github.com/robocorp/rcc)
+
 ### Search
 #### Alternative to: [Algolia](https://www.algolia.com/)
 **[`^        back to top        ^`](#)**
@@ -148,9 +160,11 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 - [AppBase](https://www.appbase.io/) - search UI components for React and Vue: powered by appbase.io / Elasticsearch (backend of AppBase is closed-source) ([repo](https://github.com/appbaseio/reactivesearch)) [![](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=social)](https://github.com/appbaseio/reactivesearch)
 
+- [SeMI](https://www.semi.technology/) - cloud-native, modular, real-time vector search engine ([repo](https://github.com/semi-technologies/weaviate)) [![](https://img.shields.io/github/stars/semi-technologies/weaviate?style=social)](https://github.com/semi-technologies/weaviate)
+
 
 ### Session replay software
-#### Alternative to: [FullStory](https://www.fullstory.com/)
+#### Alternative to: [FullStory](https://www.fullstory.com/), [HotJar](https://www.hotjar.com/)
 **[`^        back to top        ^`](#)**
 
 - [OpenReplay](https://openreplay.com/) (YCS19) - session replay stack that lets you see and debug what users do on your web app, helping you troubleshoot issues faster ([repo](https://github.com/openreplay/openreplay)) [![](https://img.shields.io/github/stars/openreplay/openreplay?style=social)](https://github.com/openreplay/openreplay)
@@ -186,5 +200,5 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 **[`^        back to top        ^`](#)**
 
-- [n8n](https://n8n.io/) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services ([repo](https://github.com/n8n-io/n8n)) [![](https://img.shields.io/github/stars/n8n-io/n8n?style=social)](https://github.com/n8n-io/n8n)
+- [n8n](https://n8n.io/) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services ([repo](https://github.com/n8n-io/n8n)) [![](https://img.shields.io/github/stars/n8n-io/n8n?style=social)](https://github.com/n8n-io/n8n) [![Generic badge](https://img.shields.io/badge/Portfolio-Runa_Capital-red.svg)](https://runacap.com/companies/n8n/)
 
