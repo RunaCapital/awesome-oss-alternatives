@@ -37,6 +37,13 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 - [Supertokens](https://supertokens.io/) (YCS20) - Add simple email and password sign up functionality to your site or app in 15 minutes ([repo](https://github.com/supertokens/supertokens-core)) [![](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social)](https://github.com/supertokens/supertokens-core)
 
+### API Platform
+#### Alternative to: [Postman](https://www.postman.com/)
+
+**[`^        back to top        ^`](#)**
+
+- [Hopscotch](https://github.com/hoppscotch/hoppscotch) - 👽 open-source API development ecosystem ([repo](https://github.com/hoppscotch/hoppscotch)) [![](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social)](https://github.com/hoppscotch/hoppscotch)
+
 ### Backend-as-a-service
 #### Alternative to: [Firebase](https://firebase.google.com/)
 
@@ -68,9 +75,18 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 - [Strapi](https://strapi.io/) - open-source Node.js Headless CMS to easily build customisable APIs ([repo](https://github.com/strapi/strapi)) [![](https://img.shields.io/github/stars/strapi/strapi?style=social)](https://github.com/strapi/strapi)
 
-- [Tina](https://tina.io/) - open-source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality [repo](https://github.com/tinacms/tinacms)) [![](https://img.shields.io/github/stars/tinacms/tinacms?style=social)](https://github.com/tinacms/tinacms)
+- [Tina](https://tina.io/) - open-source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality ([repo](https://github.com/tinacms/tinacms)) [![](https://img.shields.io/github/stars/tinacms/tinacms?style=social)](https://github.com/tinacms/tinacms)
 
-- [Webiny](https://www.webiny.com/) (YCW21) - enterprise open-source serverless CMS. Includes a headless CMS, page builder, form builder and file manager. Easy to customize and expand. Deploys to AWS [repo](https://github.com/webiny/webiny-js)) [![](https://img.shields.io/github/stars/webiny/webiny-js?style=social)](https://github.com/webiny/webiny-js)
+- [Webiny](https://www.webiny.com/) (YCW21) - enterprise open-source serverless CMS. Includes a headless CMS, page builder, form builder and file manager. Easy to customize and expand. Deploys to AWS ([repo](https://github.com/webiny/webiny-js)) [![](https://img.shields.io/github/stars/webiny/webiny-js?style=social)](https://github.com/webiny/webiny-js)
+
+### Customer Data Platform
+#### Alternative to: [Segment](https://segment.com/)
+
+**[`^        back to top        ^`](#)**
+
+- [Jitsu](https://jitsu.com/) -  an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days ([repo](https://github.com/jitsucom/jitsu)) [![](https://img.shields.io/github/stars/jitsucom/jitsu?style=social)](https://github.com/jitsucom/jitsu)
+
+- [Rudderstack](https://rudderstack.com/) -  privacy and security focused Segment-alternative, in Golang and React ([repo](https://github.com/rudderlabs/rudder-server/)) [![](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social)](https://github.com/rudderlabs/rudder-server/)
 
 ### Customer Engagement
 #### Alternative to: [Intercom](https://www.intercom.com/), [Zendesk](https://www.zendesk.com/)
@@ -87,6 +103,8 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 #### Alternative to: [Shopify](https://www.shopify.com/), [Shogan](https://getshogun.com/), [Ecwid](https://www.ecwid.com/)
 
 **[`^        back to top        ^`](#)**
+
+- [Medusa](https://www.medusa-commerce.com/) - the open-source Shopify alternative ⚡️ ([repo](https://github.com/medusajs/medusa)) [![](https://img.shields.io/github/stars/medusajs/medusa?style=social)](https://github.com/medusajs/medusa)
 
 - [Saleor](https://saleor.io/) - a modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React ([repo](https://github.com/saleor/saleor)) [![](https://img.shields.io/github/stars/saleor/saleor?style=social)](https://github.com/saleor/saleor)
 
