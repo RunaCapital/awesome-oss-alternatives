@@ -31,8 +31,6 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 ### Auth & SSO
 #### Alternative to: [Okta](https://okta.com/), [Auth0](https://auth0.com/)
 
-**[`^        back to top        ^`](#)**
-
 - [Oso](https://github.com/osohq/oso) - batteries-included framework for building authorization in your application ([repo](https://github.com/osohq/oso)) [![](https://img.shields.io/github/stars/osohq/oso?style=social)](https://github.com/osohq/oso)
 
 - [Supertokens](https://supertokens.io/) (YCS20) - Add simple email and password sign up functionality to your site or app in 15 minutes ([repo](https://github.com/supertokens/supertokens-core)) [![](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social)](https://github.com/supertokens/supertokens-core)
@@ -40,14 +38,10 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 ### API Platform
 #### Alternative to: [Postman](https://www.postman.com/)
 
-**[`^        back to top        ^`](#)**
-
 - [Hopscotch](https://github.com/hoppscotch/hoppscotch) - 👽 open-source API development ecosystem ([repo](https://github.com/hoppscotch/hoppscotch)) [![](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social)](https://github.com/hoppscotch/hoppscotch)
 
 ### Backend-as-a-service
 #### Alternative to: [Firebase](https://firebase.google.com/)
-
-**[`^        back to top        ^`](#)**
 
 - [Appwrite](https://appwrite.io/) - Appwrite is a self-hosted solution that provides developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs ([repo](https://github.com/appwrite/appwrite)) [![](https://img.shields.io/github/stars/appwrite/appwrite?style=social)](https://github.com/appwrite/appwrite)
 
@@ -58,14 +52,10 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 ### Business intelligence
 #### Alternative to: [Tableau](https://www.tableau.com/), [Power BI](https://powerbi.microsoft.com/), [DataStudio](https://datastudio.google.com/), you name it...
 
-**[`^        back to top        ^`](#)**
-
 - [Metabase](https://www.metabase.com/) - Connect to your existing data, invite your team, and you have a BI solution that would usually take a sales call ([repo](https://github.com/metabase/metabase)) [![](https://img.shields.io/github/stars/metabase/metabase?style=social)](https://github.com/metabase/metabase)
 
 ### CMS
 #### Alternative to: [Contentfull](https://www.contentful.com/)
-
-**[`^        back to top        ^`](#)**
 
 - [Builder](https://builder.io/) - drag and drop page builder and CMS for React, Vue, Angular, and more [repo](https://github.com/builderio/builder)) [![](https://img.shields.io/github/stars/builderio/builder?style=social)](https://github.com/builderio/builder)
 
@@ -82,16 +72,12 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 ### Customer Data Platform
 #### Alternative to: [Segment](https://segment.com/)
 
-**[`^        back to top        ^`](#)**
-
 - [Jitsu](https://jitsu.com/) -  an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days ([repo](https://github.com/jitsucom/jitsu)) [![](https://img.shields.io/github/stars/jitsucom/jitsu?style=social)](https://github.com/jitsucom/jitsu)
 
 - [Rudderstack](https://rudderstack.com/) -  privacy and security focused Segment-alternative, in Golang and React ([repo](https://github.com/rudderlabs/rudder-server/)) [![](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social)](https://github.com/rudderlabs/rudder-server/)
 
 ### Customer Engagement
 #### Alternative to: [Intercom](https://www.intercom.com/), [Zendesk](https://www.zendesk.com/)
-
-**[`^        back to top        ^`](#)**
 
 - [Chaskiq](https://chaskiq.io/) - Messaging Platform for Marketing, Support & Sales ([repo](https://github.com/chaskiq/chaskiq)) [![](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social)](https://github.com/chaskiq/chaskiq)
 
@@ -101,8 +87,6 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 ### E-commerce
 #### Alternative to: [Shopify](https://www.shopify.com/), [Shogan](https://getshogun.com/), [Ecwid](https://www.ecwid.com/)
-
-**[`^        back to top        ^`](#)**
 
 - [Medusa](https://www.medusa-commerce.com/) - the open-source Shopify alternative ⚡️ ([repo](https://github.com/medusajs/medusa)) [![](https://img.shields.io/github/stars/medusajs/medusa?style=social)](https://github.com/medusajs/medusa)
 
@@ -117,8 +101,6 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 ### ELT / ETL
 #### Alternative to: [Fivetran](https://fivetran.com/)
 
-**[`^        back to top        ^`](#)**
-
 - [Airbyte](https://airbyte.io/) (YCW20) - Turnkey data integration platform that gives your infrastructure super powers to move data seamlessly ([repo](https://github.com/airbytehq/airbyte)) [![](https://img.shields.io/github/stars/airbytehq/airbyte?style=social)](https://github.com/airbytehq/airbyte)
 
 - [Dagster](https://dagster.io/) - Orchestration platform for the development, production, and observation of data assets ([repo](https://github.com/dagster-io/dagster)) [![](https://img.shields.io/github/stars/dagster-io/dagster?style=social)](https://github.com/dagster-io/dagster)
@@ -130,16 +112,12 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 ### Feature flag and toggle management
 #### Alternative to: [LaunchDarkly](https://launchdarkly.com/)
 
-**[`^        back to top        ^`](#)**
-
 - [FlagSmith](https://flagsmith.com/) - Feature Flag & Remote Config Service ([repo](https://github.com/Flagsmith/flagsmith)) [![](https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social)](https://github.com/Flagsmith/flagsmith)
 
 - [Unleash](https://www.getunleash.io/) - Feature flags platform ([repo](https://github.com/Unleash/unleash)) [![](https://img.shields.io/github/stars/Unleash/Unleash?style=social)](https://github.com/Unleash/unleash)
 
 ### Metrics store
 #### Alternative to: [Looker](https://looker.com/)
-
-**[`^        back to top        ^`](#)**
 
 - [Cube.js](https://cube.dev/) - Customer‑facing analytics features and business intelligence tools on top of your cloud data warehouse ([repo](https://github.com/cube-js/cube.js)) [![](https://img.shields.io/github/stars/cube-js/cube.js?style=social)](https://github.com/cube-js/cube.js)
 
@@ -152,14 +130,10 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 ### ML Deployments
 #### Alternative to: [AWS SageMaker](https://aws.amazon.com/sagemaker/)
 
-**[`^        back to top        ^`](#)**
-
 - [Cortex](https://www.cortex.dev/) - production infrastructure for machine learning at scale ([repo](https://github.com/cortexlabs/cortex)) [![](https://img.shields.io/github/stars/cortexlabs/cortex?style=social)](https://github.com/cortexlabs/cortex)
 
 ### Notetaking software
 #### Alternative to: [Notion](https://www.notion.so/)
-
-**[`^        back to top        ^`](#)**
 
 - [AppFlowy](https://www.appflowy.io/) - open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust ([repo](https://github.com/AppFlowy-IO/appflowy)) [![](https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social)](https://github.com/AppFlowy-IO/appflowy)
 
@@ -169,13 +143,11 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 ### No-code
 #### Alternative to: [AirTable](https://www.airtable.com/)
 
-**[`^        back to top        ^`](#)**
-
 - [NocoDB](https://www.nocodb.com/) - open source no-code platform that turns any database into a smart spreadsheet ([repo](https://github.com/nocodb/nocodb)) [![](https://img.shields.io/github/stars/nocodb/nocodb?style=social)](https://github.com/nocoodb/nocodb)
 
-#### Alternative to: [Retool](https://retool.com/)
+- [Baserow](https://baserow.io/) - open source no-code database and Airtable alternative. Create your own database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser ([repo](https://gitlab.com/bramw/baserow)) [![](https://img.shields.io/gitlab/stars/bramw/baserow?style=social)](https://github.com/bramw/baserow)
 
-**[`^        back to top        ^`](#)**
+#### Alternative to: [Retool](https://retool.com/)
 
 - [AppSmith](https://www.appsmith.com/) - quickly build any custom business software with pre-built UI widgets that connect to any data source. Control everything with JavaScript ([repo](https://github.com/appsmithorg/appsmith)) [![](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social)](https://github.com/appsmithorg/appsmith)
 
@@ -187,7 +159,6 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 ### Password manager
 #### Alternative to: [1Password](https://1password.com/)
-**[`^        back to top        ^`](#)**
 
 - [BitWarden](https://bitwarden.com/) - the easiest and safest way for teams and individuals to store and share sensitive data from any device [repo](https://github.com/bitwarden/server)) [![](https://img.shields.io/github/stars/bitwarden/server?style=social)](https://github.com/bitwarden/server)
 
@@ -195,25 +166,21 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 ### Product Analytics
 #### Alternative to: [Amplitude](https://amplitude.com/), [MixPanel](https://mixpanel.com/)
-**[`^        back to top        ^`](#)**
 
 - [PostHog](https://posthog.com/) - open-source product analytics that you can self-host ([repo](https://github.com/PostHog/posthog)) [![](https://img.shields.io/github/stars/PostHog/posthog?style=social)](https://github.com/PostHog/posthog)
 
 ### Robotic Process Automation (RPA)
 #### Alternative to: [UiPath](https://www.uipath.com/)
-**[`^        back to top        ^`](#)**
 
 - [RoboCorp](https://robocorp.com/) - set of tooling that allows you to create, manage, and distribute Python-based self-contained automation packages - or 'robots' as we call them ([repo](https://github.com/robocorp/rcc)) [![](https://img.shields.io/github/stars/robocorp/rcc?style=social)](https://github.com/robocorp/rcc)
 
 ### Scheduling software
 #### Alternative to: [Calendly](https://calendly.com/)
-**[`^        back to top        ^`](#)**
 
 - [Calendso](https://cal.com/) - scheduling infrastructure for absolutely everyone ([repo](https://github.com/calendso/calendso)) [![](https://img.shields.io/github/stars/calendso/calendso?style=social)](https://github.com/calendso/calendso)
 
 ### Search
 #### Alternative to: [Algolia](https://www.algolia.com/)
-**[`^        back to top        ^`](#)**
 
 - [AppBase](https://www.appbase.io/) - search UI components for React and Vue: powered by appbase.io / Elasticsearch (backend of AppBase is closed-source) ([repo](https://github.com/appbaseio/reactivesearch)) [![](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=social)](https://github.com/appbaseio/reactivesearch)
 
@@ -226,14 +193,12 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 - [TypeSense](https://typesense.org/) - fast, typo tolerant, fuzzy search engine for building delightful search experiences ([repo](https://github.com/typesense/typesense)) [![](https://img.shields.io/github/stars/typesense/typesense?style=social)](https://github.com/typesense/typesense)
 
 ### Session replay software
-#### Alternative to: [FullStory](https://www.fullstory.com/), [HotJar](https://www.hotjar.com/)
-**[`^        back to top        ^`](#)**
+#### Alternative to: [LogRocket](https://logrocket.com/), [FullStory](https://www.fullstory.com/), [HotJar](https://www.hotjar.com/)
 
 - [OpenReplay](https://openreplay.com/) (YCS19) - session replay stack that lets you see and debug what users do on your web app, helping you troubleshoot issues faster ([repo](https://github.com/openreplay/openreplay)) [![](https://img.shields.io/github/stars/openreplay/openreplay?style=social)](https://github.com/openreplay/openreplay)
 
 ### Streaming
 #### Alternative to: [Twitch](https://www.twitch.tv/)
-**[`^        back to top        ^`](#)**
 
 - [Glimesh](https://glimesh.tv/) - next generation live streaming platform built by the community, for the community ([repo](https://github.com/glimesh/glimesh.tv)) [![](https://img.shields.io/github/stars/glimesh/glimesh.tv?style=social)](https://github.com/glimesh/glimesh.tv)
 
@@ -241,14 +206,10 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 ### Observability and monitoring
 #### Alternative to: [DataDog](https://www.datadoghq.com/), [NewRelic](https://newrelic.com/)
 
-**[`^        back to top        ^`](#)**
-
 - [Signoz](https://signoz.io/) (YCW21) - Observability platform to help you find issues in your deployed applications & solve them quickly ([repo](https://github.com/signoz/signoz)) [![](https://img.shields.io/github/stars/signoz/signoz?style=social)](https://github.com/signoz/signoz)
 
 ### Website analytics
 #### Alternative to: [Google Analytics](https://analytics.google.com/)
-
-**[`^        back to top        ^`](#)**
 
 - [Matomo](https://matomo.org/) - Google Analytics alternative that protects your data and your customers' privacy ([repo](https://github.com/matomo-org/matomo)) [![](https://img.shields.io/github/stars/matomo-org/matomo?style=social)](https://github.com/matomo-org/matomo)
 
@@ -259,8 +220,6 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 
 ### Workflow automation
 #### Alternative to: [Zapier](https://zapier.com/)
-
-**[`^        back to top        ^`](#)**
 
 - [N8N](https://n8n.io/) - free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services ([repo](https://github.com/n8n-io/n8n)) [![](https://img.shields.io/github/stars/n8n-io/n8n?style=social)](https://github.com/n8n-io/n8n)
 
