@@ -12,7 +12,7 @@ Here we add only open-source projects that satisfy the following criteria:
 2. Project must have a closed-sourced competitor (well-known company or product that at least shares a subset of features with the project)
 3. Project must be a startup (private independent company founded less than 10 years ago and raised less than $100M in total known funding)
 
-See [Contributing](.github/CONTRIBUTING.md).
+Things change fast in the startup world, so don't hesitate to add new startups. See [Contributing](.github/CONTRIBUTING.md).
 
 --------------------
 
