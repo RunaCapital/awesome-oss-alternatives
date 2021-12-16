@@ -15,7 +15,7 @@ If you have any questions, please open an [issue](https://github.com/RunaCapital
 
 3. Edit README.md from the Github interface. Find the appropriate section for the startup or create a new one. In each section companies are sorted in alphabetical order. 
 4. Past there the text from the step 2. 
-5. Open a pull-request
+5. Open a pull-request. Include company name in it.
 
 **Important**: Please add one startup per pull-request. Also please check, that you are adding it to the right category and in the right place (startups in a category are sorted in a alphabetical order).
 
