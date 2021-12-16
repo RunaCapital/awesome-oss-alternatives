@@ -31,7 +31,7 @@ Click on the menu icon next to [README.md](#readme) for a list of sections
 ### Auth & SSO
 #### Alternative to: [Okta](https://okta.com/), [Auth0](https://auth0.com/)
 
-- [Oso](https://github.com/osohq/oso) - batteries-included framework for building authorization in your application ([repo](https://github.com/osohq/oso)) [![](https://img.shields.io/github/stars/osohq/oso?style=social)](https://github.com/osohq/oso)
+- [Oso](https://www.osohq.com/) - batteries-included framework for building authorization in your application ([repo](https://github.com/osohq/oso)) [![](https://img.shields.io/github/stars/osohq/oso?style=social)](https://github.com/osohq/oso)
 
 - [Supertokens](https://supertokens.io/) (YCS20) - Add simple email and password sign up functionality to your site or app in 15 minutes ([repo](https://github.com/supertokens/supertokens-core)) [![](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social)](https://github.com/supertokens/supertokens-core)
 
