@@ -1,26 +1,17 @@
-# Awesome open-source alternatives to SaaS unicorns
+# Awesome open-source alternatives to SaaS
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Awesome list of open-source startup alternatives to closed-source companies. Maintained by folks at [Runa Capital](https://runacap.com/). 
 
 Also checkout the [ROSS index](https://runacap.com/ross-index/): fastest-growing open-source startups, every quarter.
 
-## Criterion to be added
-
-Here we add only open-source projects that satisfy the following criteria:
-1. Project must be commercial (paid offering, willingness to add paid features, funding)
-2. Project must have a closed-sourced competitor (well-known company or product that at least shares a subset of features with the project)
-3. Project must be a startup (private independent company founded less than 10 years ago and raised less than $100M in total known funding)
+## Criteria
+Open-source company is added to the list if: 
+1. Its product is strongly based on an open source repo 
+2. It has a well-known a closed-sourced competitor, solving a similar business problem
+3. It is a private company, founded in the last 10 years
 
 Things change fast in the startup world, so don't hesitate to add new startups. See [Contributing](.github/CONTRIBUTING.md).
-
---------------------
-
-
-## Table of contents
-
-
-Click on the menu icon next to [README.md](#readme) for a list of sections
 
 --------------------
 
