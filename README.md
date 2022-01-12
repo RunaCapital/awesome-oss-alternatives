@@ -8,7 +8,7 @@ Also checkout the [ROSS index](https://runacap.com/ross-index/): fastest-growing
 ## Criteria
 Open-source company is added to the list if: 
 1. Its product is strongly based on an open source repo 
-2. It has a well-known a closed-sourced competitor, solving a similar business problem
+2. It has a well-known closed-sourced competitor, solving a similar business problem
 3. It is a private company, founded in the last 10 years
 
 Things change fast in the startup world, so don't hesitate to add new startups. See [Contributing](.github/CONTRIBUTING.md).
