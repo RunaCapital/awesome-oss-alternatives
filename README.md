@@ -17,6 +17,9 @@ Things change fast in the startup world, so don't hesitate to add new startups. 
 
 ## Startup List
 
+All startups in the list are sorted by categories and names in an alphabetical order. If you click on the stars badge, you will get to a product's repo. 
+**Happy lurking!**
+
 <!-- BEGIN STARTUP LIST -->
 
 |Category|Company|Description|GitHub Stars|Alternative to|
