@@ -140,3 +140,4 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+index.html
