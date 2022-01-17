@@ -1,7 +1,7 @@
 # Awesome open-source alternatives to SaaS
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome list of open-source startup alternatives to closed-source companies. Maintained by folks at [Runa Capital](https://runacap.com/). 
+Awesome list of open-source startup alternatives to well-known SaaS products. Maintained by folks at [Runa Capital](https://runacap.com/). 
 
 Also checkout the [ROSS index](https://runacap.com/ross-index/): fastest-growing open-source startups, every quarter.
 
