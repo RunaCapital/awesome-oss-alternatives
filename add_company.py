@@ -1,6 +1,6 @@
 def get_repo_from_url(url):
     idx = url.find('.com/')
-    return url[idx + len('.com/'):]
+    return url[idx + len('.com/'):].strip('/')
 
 
 def create_alternatives_md(names, links):
