@@ -20,7 +20,7 @@ Don't hesitate to [contribute](.github/CONTRIBUTING.md) and add new startups. Le
 ## Startup List
 
 All startups in the list are sorted by categories and names in an alphabetical order. If you click on the stars badge, you will get to a product's repo. 
-**Happy lurking!**
+**Have a good search!**
 
 <!-- BEGIN STARTUP LIST -->
 
