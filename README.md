@@ -11,7 +11,7 @@ Also checkout our [ROSS index](https://runacap.com/ross-index/): fastest-growing
 Open-source company is added to the list if: 
 1. Its product is strongly based on an open-source repo 
 2. It has a well-known closed-sourced competitor, solving a similar business problem
-3. It is a private company, founded in the last 10 years
+3. It is a private for-profit company, founded in the last 10 years
 4. Its repo has 100+ stars on GitHub
 
 Things change really fast in the startup world, so this list can neither be fully complete, nor 100% up to date.
