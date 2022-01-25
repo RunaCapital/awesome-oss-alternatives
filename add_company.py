@@ -1,9 +1,24 @@
 def get_repo_from_url(url):
+    '''
+    Given a url, return the repository name.
+    
+    :param url: the url of the repo
+    :return: The repo name.
+    '''
     idx = url.find('.com/')
     return url[idx + len('.com/'):].strip('/')
 
 
 def create_alternatives_md(names, links):
+    '''
+    Create a markdown string of the form: 
+    
+    [name1](link1), [name2](link2), ...
+    
+    :param names: A list of alternative names for the image
+    :param links: A list of links to the alternative versions of the file
+    :return: A string of the form:
+    '''
     return ', '.join(
         (
             f"""[{name.strip()}]({link.strip()})""" for name, link in zip(names, links)
