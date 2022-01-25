@@ -28,7 +28,7 @@ All startups in the list are sorted by categories and names in an alphabetical o
 
 |Category|Company|Description|GitHub Stars|Alternative to|
 |:-------|:------|:----------|:----------:|:------------:|
-API Platform|[Hopscotch](https://github.com/hoppscotch/hoppscotch)|API development ecosystem|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" width=150/></a>|[Postman](https://www.postman.com/)
+API Platform|[Hoppscotch](https://github.com/hoppscotch/hoppscotch)|API development ecosystem|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" width=150/></a>|[Postman](https://www.postman.com/)
 Auth & SSO|[Oso](https://www.osohq.com/)|Authorization building framework|<a href=https://github.com/osohq/oso><img src="https://img.shields.io/github/stars/osohq/oso?style=social" width=150/></a>|[Okta](https://okta.com/), [Auth0](https://auth0.com/)
 Auth & SSO|[Supertokens](https://supertokens.io/)|User authentication and session management framework|<a href=https://github.com/supertokens/supertokens-core><img src="https://img.shields.io/github/stars/supertokens/supertokens-core?style=social" width=150/></a>|[Okta](https://okta.com/), [Auth0](https://auth0.com/)
 Backend as a service|[Appwrite](https://appwrite.io/)|Backend server with REST APIs to manage core backend needs|<a href=https://github.com/appwrite/appwrite><img src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" width=150/></a>|[Firebase](https://firebase.google.com/)
