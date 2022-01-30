@@ -29,6 +29,7 @@ All startups in the list are sorted by categories and names in an alphabetical o
 
 |Category|Company|Description|GitHub Stars|Alternative to|
 |:-------|:------|:----------|:----------:|:------------:|
+Helpdesk Solution|[Peppermint](https://github.com/Peppermint-Lab/peppermint)|Ticket Management & Helpdesk system|<a href=https://github.com/Peppermint-Lab/peppermint><img src="https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=social" width=150/></a>|[Zendesk](https://www.zendesk.co.uk/)
 API Platform|[Hoppscotch](https://github.com/hoppscotch/hoppscotch)|API development ecosystem|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" width=150/></a>|[Postman](https://www.postman.com/)
 Auth & SSO|[Cerbos](https://cerbos.dev/)|Granular access control|<a href=https://github.com/cerbos/cerbos><img src="https://img.shields.io/github/stars/cerbos/cerbos?style=social" width=150/></a>|[Okta](https://okta.com/), [Auth0](https://auth0.com/)
 Auth & SSO|[Ory](https://www.ory.sh/)|Identity platform|<a href=https://github.com/ory/kratos><img src="https://img.shields.io/github/stars/ory/kratos?style=social" width=150/></a>|[Okta](https://okta.com/), [Auth0](https://auth0.com/)
