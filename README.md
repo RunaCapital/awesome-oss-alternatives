@@ -1,8 +1,6 @@
 # Awesome open-source alternatives to SaaS
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<a href="https://www.producthunt.com/posts/awesome-open-source-alternatives-to-saas?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-open-source-alternatives-to-saas" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=328035&theme=light" alt="Awesome Open-Source Alternatives to SaaS - GitHub list of open-source alternatives to well-known SaaS | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
 Awesome list of open-source startup alternatives to established SaaS products. Maintained by folks at [Runa Capital](https://runacap.com/). 
 
 Also checkout our [ROSS index](https://runacap.com/ross-index/): fastest-growing open-source startups, every quarter.
