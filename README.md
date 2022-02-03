@@ -60,6 +60,7 @@ Cybersecurity|[CloudQuery](https://cloudquery.io/)|Assess, audit, and evaluate t
 Cybersecurity|[CrowdSec](http://crowdsec.net/)|Collaborative IPS able to analyze visitor behavior and to provide an adapted response to all kinds of attacks.|<a href=https://github.com/crowdsecurity/crowdsec><img src="https://img.shields.io/github/stars/crowdsecurity/crowdsec?style=social" width=150/></a>|[GreyNoise](https://www.greynoise.io/)|
 Cybersecurity|[Firezone](https://www.firez.one/)|VPN Server & Firewall for teams|<a href=https://github.com/firezone/firezone><img src="https://img.shields.io/github/stars/firezone/firezone?style=social" width=150/></a>|[OpenVPN Access Server](https://openvpn.net/access-server/)
 Cybersecurity|[Gravitl](https://gravitl.com)|WireGuard virtual networking platform (VPN)|<a href=https://github.com/gravitl/netmaker><img src="https://img.shields.io/github/stars/gravitl/netmaker?style=social" width=150/></a>|[Tailscale](https://tailscale.com/), [OpenVPN](https://openvpn.net/)|
+Cybersecurity|[Nuclei](https://nuclei.projectdiscovery.io/)|Vulnerability scanner based on simple YAML based DSL|<a href=https://github.com/projectdiscovery/nuclei><img src="https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social" width=150/></a>|[Tenable Nessus](https://www.tenable.com/products/nessus)|
 Design|[Modulz](https://www.modulz.app/)|Code-based tool for designing and prototyping|<a href=https://github.com/radix-ui/primitives><img src="https://img.shields.io/github/stars/radix-ui/primitives?style=social" width=150/></a>|[Figma](https://www.figma.com/)|
 Design|[Penpot](https://penpot.app/)|Design & prototyping platform|<a href=https://github.com/penpot/penpot><img src="https://img.shields.io/github/stars/penpot/penpot?style=social" width=150/></a>|[Figma](https://www.figma.com/)|
 E-commerce|[Medusa](https://www.medusa-commerce.com/)|Headless e-commerce platform|<a href=https://github.com/medusajs/medusa><img src="https://img.shields.io/github/stars/medusajs/medusa?style=social" width=150/></a>|[Shopify](https://www.shopify.com/), [Ecwid](https://www.ecwid.com/)
@@ -153,6 +154,8 @@ Website analytics|[Umami](https://umami.is)|Google Analytics alternative|<a href
 Workflow automation|[N8N](https://n8n.io/)|Node-based workflow automation tool for developers|<a href=https://github.com/n8n-io/n8n><img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" width=150/></a>|[Zapier](https://zapier.com/)
 Workflow automation|[Pipedream](https://pipedream.com/)|Workflow automation and API integration platform|<a href=https://github.com/PipedreamHQ/pipedream><img src="https://img.shields.io/github/stars/PipedreamHQ/pipedream?style=social" width=150/></a>|[Zapier](https://zapier.com/), [Integromat](https://www.integromat.com/)|
 Workflow automation|[Temporal](https://temporal.io/)|Workflows as code platform|<a href=https://github.com/temporalio/temporal><img src="https://img.shields.io/github/stars/temporalio/temporal?style=social" width=150/></a>|[Zapier](https://zapier.com/)
+
+<!-- END STARTUP LIST -->
 
 ## Usefull Links
 - Great [article](https://rajko-rad.medium.com/the-rise-of-open-source-challengers-4a3d93932425) on open-source challengers by Rajko Radovanovic
