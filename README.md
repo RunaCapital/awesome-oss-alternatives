@@ -8,7 +8,7 @@ Also checkout our [ROSS index](https://runacap.com/ross-index/): fastest-growing
 ## Criteria
 Open-source company is added to the list if: 
 1. Its product is strongly based on an open-source repo 
-2. It has a well-known closed-sourced competitor, solving a similar business problem
+2. It has a well-known closed-source competitor, solving a similar business problem
 3. It is a private for-profit company, founded in the last 10 years
 4. Its repo has 100+ stars on GitHub
 
@@ -20,7 +20,7 @@ Don't hesitate to [contribute](.github/CONTRIBUTING.md) and add new startups. Le
 
 ## Startup List
 
-All startups in the list are sorted by categories and names in an alphabetical order. If you click on the stars badge, you will get to a product's repo. 
+All startups in the list are sorted by categories and sorted in alphabetical order. If you click on the stars badge you will get to the product's repo. 
 **Have a good search!**
 
 <!-- BEGIN STARTUP LIST -->
@@ -159,5 +159,5 @@ Workflow automation|[Temporal](https://temporal.io/)|Workflows as code platform|
 
 <!-- END STARTUP LIST -->
 
-## Usefull Links
+## Useful Links
 - Great [article](https://rajko-rad.medium.com/the-rise-of-open-source-challengers-4a3d93932425) on open-source challengers by Rajko Radovanovic
