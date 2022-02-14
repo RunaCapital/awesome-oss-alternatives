@@ -62,12 +62,15 @@ def add_new_company(category,
         all = f.readlines()
 
     table_start = '|Category|Company|Description|GitHub Stars|Alternative to|\n'
+    table_end = '<!-- END STARTUP LIST -->\n'
+    
     idx = all.index(table_start)
+    idx_end = all.index(table_end)
 
     find_name = lambda x: x[x.index('[')  + 1 : x.index(']')].strip()
     find_cat = lambda x: x[:x.index('|')].strip()
 
-    categories = [(find_cat(x), find_name(x)) for x in all[idx + 2: -1]]
+    categories = [(find_cat(x), find_name(x)) for x in all[idx + 2: idx_end - 1]]
 
     search_tup = (category.strip(), name.strip())
 
