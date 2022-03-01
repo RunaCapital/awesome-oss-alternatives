@@ -1,26 +1,26 @@
 # Awesome open-source alternatives to SaaS
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome list of open-source startup alternatives to established SaaS products. Maintained by folks at [Runa Capital](https://runacap.com/). 
+Awesome list of open-source startup alternatives to established SaaS products. Maintained by folks at [Runa Capital](https://runacap.com/).
 
 Also checkout our [ROSS index](https://runacap.com/ross-index/): fastest-growing open-source startups, every quarter.
 
 ## Criteria
-Open-source company is added to the list if: 
-1. Its product is strongly based on an open-source repo 
+Open-source company is added to the list if:
+1. Its product is strongly based on an open-source repo
 2. It has a well-known closed-source competitor, solving a similar business problem
 3. It is a private for-profit company, founded in the last 10 years
 4. Its repo has 100+ stars on GitHub
 
 Things change really fast in the startup world, so this list can neither be fully complete, nor 100% up to date.
 
-Don't hesitate to [contribute](.github/CONTRIBUTING.md) and add new startups. Let's build the most comprehensive list together. 
+Don't hesitate to [contribute](.github/CONTRIBUTING.md) and add new startups. Let's build the most comprehensive list together.
 
 --------------------
 
 ## Startup List
 
-All startups in the list are sorted by categories and sorted in alphabetical order. If you click on the stars badge you will get to the product's repo. 
+All startups in the list are sorted by categories and sorted in alphabetical order. If you click on the stars badge you will get to the product's repo.
 **Have a good search!**
 
 <!-- BEGIN STARTUP LIST -->
@@ -67,6 +67,7 @@ E-commerce|[Medusa](https://www.medusajs.com/)|Headless e-commerce platform|<a h
 E-commerce|[Saleor](https://saleor.io/)|Headless e-commerce platform|<a href=https://github.com/saleor/saleor><img src="https://img.shields.io/github/stars/saleor/saleor?style=social" width=150/></a>|[Shopify](https://www.shopify.com/), [Ecwid](https://www.ecwid.com/)
 E-commerce|[Shuup](https://shuup.com)|Headless e-commerce platform|<a href=https://github.com/shuup/shuup><img src="https://img.shields.io/github/stars/shuup/shuup?style=social" width=150/></a>|[Shopify](https://www.shopify.com/), [Ecwid](https://www.ecwid.com/)
 E-commerce|[Sylius](https://sylius.com/)|Headless e-commerce platform|<a href=https://github.com/sylius/sylius><img src="https://img.shields.io/github/stars/sylius/sylius?style=social" width=150/></a>|[Shopify](https://www.shopify.com/), [Ecwid](https://www.ecwid.com/)
+E-commerce|[Bagisto](https://bagisto.com/en/)|Headless e-commerce platform|<a href=https://github.com/bagisto/bagisto><img src="https://img.shields.io/github/stars/bagisto/bagisto?style=social" width=150/></a>|[Bagisto](https://bagisto.com/en/)
 E-commerce|[Vendure](https://www.vendure.io/)|Headless e-commerce platform|<a href=https://github.com/vendure-ecommerce/vendure><img src="https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social" width=150/></a>|[Shopify](https://www.shopify.com/), [Ecwid](https://www.ecwid.com/)
 E-commerce|[Vue Storefront](https://www.vuestorefront.io/)|Frontend for e-commerce platform|<a href=https://github.com/vuestorefront/vue-storefront><img src="https://img.shields.io/github/stars/vuestorefront/vue-storefront?style=social" width=150/></a>|[Shogun](https://getshogun.com/)
 ELT / ETL|[Airbyte](https://airbyte.io/)|Data integration platform|<a href=https://github.com/airbytehq/airbyte><img src="https://img.shields.io/github/stars/airbytehq/airbyte?style=social" width=150/></a>|[Fivetran](https://fivetran.com/)
