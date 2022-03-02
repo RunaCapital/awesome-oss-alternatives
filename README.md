@@ -27,7 +27,7 @@ All startups in the list are sorted by categories and sorted in alphabetical ord
 
 |Category|Company|Description|GitHub Stars|Alternative to|
 |:-------|:------|:----------|:----------:|:------------:|
-API Platform|[Hoppscotch](https://github.com/hoppscotch/hoppscotch)|API development ecosystem|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" width=150/></a>|[Postman](https://www.postman.com/)
+API Platform|[Hoppscotch](https://hoppscotch.io/)|API development ecosystem|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" width=150/></a>|[Postman](https://www.postman.com/)
 Auth & SSO|[Cerbos](https://cerbos.dev/)|Granular access control|<a href=https://github.com/cerbos/cerbos><img src="https://img.shields.io/github/stars/cerbos/cerbos?style=social" width=150/></a>|[Okta](https://okta.com/), [Auth0](https://auth0.com/)
 Auth & SSO|[Keycloak](https://www.cloud-iam.com/)|User authentication and session management framework|<a href=https://github.com/keycloak/keycloak><img src="https://img.shields.io/github/stars/keycloak/keycloak?style=social" width=150/></a>|[Okta](https://okta.com/), [Auth0](https://auth0.com/)
 Auth & SSO|[OPAL (Permit.io)](https://www.opal.ac/)|Authorization adminstration framework (Open Policy)|<a href=https://github.com/permitio/opal><img src="https://img.shields.io/github/stars/permitio/opal?style=social" width=150/></a>|[Okta](https://okta.com/), [Auth0](https://auth0.com/)
