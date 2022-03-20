@@ -27,6 +27,7 @@ All startups in the list are sorted by categories and sorted in alphabetical ord
 
 |Category|Company|Description|GitHub Stars|Alternative to|
 |:-------|:------|:----------|:----------:|:------------:|
+API Gateway|[Apache APISIX](https://github.com/apache/apisix)|Cloud Native API Gateway under the Apache Software Foundation|<a href=https://github.com/apache/apisix><img src="https://img.shields.io/github/stars/apache/apisix?style=social" width=150/></a>|[apigee](https://cloud.google.com/apigee)
 API Platform|[Hoppscotch](https://hoppscotch.io/)|API development ecosystem|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" width=150/></a>|[Postman](https://www.postman.com/)
 Auth & SSO|[Cerbos](https://cerbos.dev/)|Granular access control|<a href=https://github.com/cerbos/cerbos><img src="https://img.shields.io/github/stars/cerbos/cerbos?style=social" width=150/></a>|[Okta](https://okta.com/), [Auth0](https://auth0.com/)
 Auth & SSO|[FusionAuth](https://fusionauth.io/)|User authentication and session management framework|<a href=https://github.com/FusionAuth/fusionauth-containers><img src="https://img.shields.io/github/stars/FusionAuth/fusionauth-containers?style=social" width=150/></a>|[Okta](https://www.okta.com/), [Auth0](https://auth0.com/)|
