@@ -1,0 +1,9 @@
+alts_links:
+- https://aws.amazon.com/sagemaker/
+alts_names:
+- AWS SageMaker
+category: ML Ops
+company_name: Cortex
+description: Production infrastructure for machine learning
+gh_link: https://github.com/cortexlabs/cortex
+link: https://www.cortex.dev/
