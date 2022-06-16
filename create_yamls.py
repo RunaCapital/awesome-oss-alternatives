@@ -1,3 +1,7 @@
+"""
+This script create yamls from README
+"""
+
 import yaml
 
 
