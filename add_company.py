@@ -1,7 +1,7 @@
 """
 This script adds company directly to the list
 """
-import yaml
+# import yaml
 
 
 def get_repo_from_url(url):
@@ -86,21 +86,21 @@ def add_new_company(
         ),
     )
 
-    file_name = "_".join(company_name.split(" "))
-    with open(f"submissions/{file_name}.yaml", "w") as file:
-        yaml.dump(
-            dict(
-                category=category,
-                company_name=company_name,
-                description=description,
-                link=link,
-                gh_link=gh_link,
-                alts_names=alts_names,
-                alts_links=alts_links,
-            ),
-            file,
-            default_flow_style=False,
-        )
+    # file_name = "_".join(company_name.split(" "))
+    # with open(f"submissions/{file_name}.yaml", "w") as file:
+    #     yaml.dump(
+    #         dict(
+    #             category=category,
+    #             company_name=company_name,
+    #             description=description,
+    #             link=link,
+    #             gh_link=gh_link,
+    #             alts_names=alts_names,
+    #             alts_links=alts_links,
+    #         ),
+    #         file,
+    #         default_flow_style=False,
+    #     )
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.writelines(all)

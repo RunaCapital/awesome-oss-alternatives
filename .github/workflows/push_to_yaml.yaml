@@ -1,0 +1,19 @@
+name: Build README from new YAML on push
+
+on:
+  push:
+    paths:
+      - "submissions/**.yaml"
+
+jobs:
+  runs-on: ubuntu-latest
+  steps:
+    - name: checkout repo content
+      uses: actions/checkout@v2 # checkout the repository content to github runner.
+    - name: setup python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.10 #install the python needed
+    - name: execute py script - build README # run file
+      run: |
+        python build_readme.py
