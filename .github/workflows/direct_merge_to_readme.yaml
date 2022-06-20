@@ -13,13 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner.
+        uses: actions/checkout@v3 # checkout the repository content to github runner.
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.9 #install the python needed
-            - name: install dependencies
-              run: pip install pyyaml
+          python-version: "3.9" #install the python needed
+      - name: install dependencies
+        run: pip install pyyaml
       - name: execute py script - create YAMLs # run file
         run: |
           python create_yamls.py
