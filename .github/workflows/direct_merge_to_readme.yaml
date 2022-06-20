@@ -18,6 +18,8 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.9 #install the python needed
+            - name: install dependencies
+              run: pip install pyyaml
       - name: execute py script - create YAMLs # run file
         run: |
           python create_yamls.py
