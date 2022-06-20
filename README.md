@@ -14,7 +14,9 @@ Open-source company is added to the list if:
 
 Things change really fast in the startup world, so this list can neither be fully complete, nor 100% up to date.
 
-Don't hesitate to [contribute](.github/CONTRIBUTING.md) and add new startups. Let's build the most comprehensive list together. 
+Don't hesitate to [contribute](.github/CONTRIBUTING.md) and add new startups. Let's build the most comprehensive list together.
+
+Any questions or suggestions? Feel free to DM project maintainer [@garrrikkotua](https://twitter.com/garrrikkotua)
 
 --------------------
 
