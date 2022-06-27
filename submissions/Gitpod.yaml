@@ -1,0 +1,10 @@
+alts_links:
+- https://github.com/features/codespaces
+alts_names:
+- Codespaces
+category: Cloud Development Environment
+company_name: Gitpod
+description: Automated provisioning of cloud development environments with multiple
+  git providers & IDEs
+gh_link: https://github.com/gitpod-io/gitpod
+link: https://gitpod.io
