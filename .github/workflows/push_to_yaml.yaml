@@ -20,3 +20,13 @@ jobs:
       - name: execute py script - build README # run file
         run: |
           python build_readme.py
+      - name: Commit files # transfer the new html files back into the repository
+        run: |
+          git config --local user.name ${{ github.actor }}
+          git add --all
+          git commit -m "Rebuild README after adding new YAML"
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
