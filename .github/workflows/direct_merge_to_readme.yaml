@@ -23,7 +23,7 @@ jobs:
       - name: execute py script - create YAMLs # run file
         run: |
           python create_yamls.py
-        - name: Commit files # transfer the new html files back into the repository
+      - name: Commit files # transfer the new html files back into the repository
         run: |
           git config --local user.name ${{ github.actor }}
           git add -a
