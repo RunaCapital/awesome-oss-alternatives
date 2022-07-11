@@ -1,11 +1,11 @@
 alts_links:
-  - https://www.tableau.com/
-  - https://powerbi.microsoft.com/
-  - https://datastudio.google.com/
+- https://www.tableau.com/
+- https://powerbi.microsoft.com/
+- https://datastudio.google.com/
 alts_names:
-  - Tableau
-  - Power BI
-  - DataStudio
+- Tableau
+- Power BI
+- DataStudio
 category: Business Intelligence
 company_name: Metabase
 description: Business intelligence software
