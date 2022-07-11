@@ -1,0 +1,11 @@
+alts_links:
+- https://stripe.com/billing
+- https://www.chargebee.com/
+alts_names:
+- Stripe Billing
+- Chargebee
+category: Financial Service
+company_name: Lago
+description: Open Source Billing API
+gh_link: https://github.com/getlago/lago
+link: https://www.getlago.com/
