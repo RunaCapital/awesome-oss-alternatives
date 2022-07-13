@@ -6,7 +6,7 @@ alts_names:
 - Tableau
 - Power BI
 - DataStudio
-category: Business intelligence
+category: Business Intelligence
 company_name: Metabase
 description: Business intelligence software
 gh_link: https://github.com/metabase/metabase
