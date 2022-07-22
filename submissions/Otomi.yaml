@@ -1,7 +1,7 @@
 alts_links:
-  - https://www.heroku.com/
+- https://www.heroku.com/
 alts_names:
-  - Heroku
+- Heroku
 category: Platform as a service
 company_name: Otomi
 description: Self-hosted PaaS for Kubernetes
