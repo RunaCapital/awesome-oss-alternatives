@@ -1,9 +1,0 @@
-alts_links:
-- https://aws.amazon.com/s3/
-alts_names:
-- Amazon S3
-category: Cloud Storage
-company_name: Storj
-description: Decentralized cloud storage
-gh_link: https://github.com/storj/storj
-link: https://www.storj.io/

@@ -1,9 +1,0 @@
-alts_links:
-- https://www.contentful.com/
-alts_names:
-- Contentful
-category: CMS
-company_name: Netlify CMS
-description: Git-based CMS for static site generators
-gh_link: https://github.com/netlify/netlify-cms
-link: https://www.netlifycms.org/

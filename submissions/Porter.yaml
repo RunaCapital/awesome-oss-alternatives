@@ -1,9 +1,0 @@
-alts_links:
-- https://www.heroku.com/
-alts_names:
-- Heroku
-category: Platform as a service
-company_name: Porter
-description: Kubernetes powered PaaS that runs in your own cloud
-gh_link: https://github.com/porter-dev/porter
-link: https://porter.run/

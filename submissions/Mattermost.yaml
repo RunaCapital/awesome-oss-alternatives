@@ -1,9 +1,0 @@
-alts_links:
-- https://slack.com/
-alts_names:
-- Slack
-category: Messaging
-company_name: Mattermost
-description: Enterprise communication platform for developers
-gh_link: https://github.com/mattermost/mattermost-server
-link: https://mattermost.com/

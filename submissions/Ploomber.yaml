@@ -1,9 +1,0 @@
-alts_links:
-- https://aws.amazon.com/sagemaker/
-alts_names:
-- AWS SageMaker
-category: ML Ops
-company_name: Ploomber
-description: YAML-based pipeline builder for ML models
-gh_link: https://github.com/ploomber/ploomber
-link: https://ploomber.io/

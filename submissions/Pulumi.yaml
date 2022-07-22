@@ -1,9 +1,0 @@
-alts_links:
-- https://www.heroku.com/
-alts_names:
-- Heroku
-category: Platform as a service
-company_name: Pulumi
-description: Universal Infrastructure as Code
-gh_link: https://github.com/pulumi/pulumi
-link: https://www.pulumi.com/

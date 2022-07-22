@@ -1,9 +1,0 @@
-alts_links:
-- https://firebase.google.com/
-alts_names:
-- Firebase
-category: Backend as a service
-company_name: Supabase
-description: Backend server with REST APIs to manage core backend needs
-gh_link: https://github.com/supabase/supabase
-link: https://supabase.io/

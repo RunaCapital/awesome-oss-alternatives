@@ -1,9 +1,0 @@
-alts_links:
-- https://aws.amazon.com/s3/
-alts_names:
-- Amazon S3
-category: Cloud Storage
-company_name: Minio
-description: S3 compatible object storage
-gh_link: https://github.com/minio/minio
-link: https://min.io/

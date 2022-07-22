@@ -1,9 +1,0 @@
-alts_links:
-- https://teamviewer.com
-alts_names:
-- TeamViewer
-category: Remote Desktop Application
-company_name: RustDesk
-description: Open source virtual / remote desktop infrastructure for everyone
-gh_link: https://github.com/rustdesk/rustdesk
-link: https://rustdesk.com/

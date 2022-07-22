@@ -1,9 +1,0 @@
-alts_links:
-- https://www.elastic.co/elastic-stack/
-alts_names:
-- Elastic Cloud
-category: Log Management
-company_name: Quickwit
-description: Cloud-native log management & analytics
-gh_link: https://github.com/quickwit-oss/quickwit
-link: https://quickwit.io/

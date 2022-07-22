@@ -1,9 +1,0 @@
-alts_links:
-- https://fivetran.com/
-alts_names:
-- Fivetran
-category: ELT / ETL
-company_name: Dagster
-description: Orchestration platform for data assets
-gh_link: https://github.com/dagster-io/dagster
-link: https://dagster.io/

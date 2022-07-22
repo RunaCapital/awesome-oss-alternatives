@@ -1,9 +1,0 @@
-alts_links:
-- https://www.twilio.com/
-alts_names:
-- Twilio
-category: Video Conferencing
-company_name: OpenVidu
-description: Platform and SDKs to build on-premises WebRTC video conferences
-gh_link: https://github.com/OpenVidu/openvidu
-link: https://openvidu.io/

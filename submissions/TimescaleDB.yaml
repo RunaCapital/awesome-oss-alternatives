@@ -1,9 +1,0 @@
-alts_links:
-- https://kx.com/developers/
-alts_names:
-- Kdb+
-category: Timeseries database
-company_name: TimescaleDB
-description: Database designed to process time series data
-gh_link: https://github.com/timescale/timescaledb
-link: https://www.timescale.com/

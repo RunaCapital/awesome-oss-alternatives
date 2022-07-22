@@ -1,9 +1,0 @@
-alts_links:
-- https://cloud.google.com/bigquery-ml/docs
-alts_names:
-- BigQuery ML
-category: ML Ops
-company_name: MindsDB
-description: In-database machine learning platform
-gh_link: https://github.com/mindsdb/mindsdb
-link: https://mindsdb.com/

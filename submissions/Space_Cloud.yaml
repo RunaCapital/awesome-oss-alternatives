@@ -1,9 +1,0 @@
-alts_links:
-- https://www.heroku.com/
-alts_names:
-- Heroku
-category: Platform as a service
-company_name: Space Cloud
-description: Serverless cloud deployment platform
-gh_link: https://github.com/spacecloud-io/space-cloud
-link: https://space-cloud.io/

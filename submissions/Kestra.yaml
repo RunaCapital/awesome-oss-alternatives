@@ -1,9 +1,0 @@
-alts_links:
-- https://fivetran.com/
-alts_names:
-- Fivetran
-category: ELT / ETL
-company_name: Kestra
-description: orchestration and scheduling platform
-gh_link: https://github.com/kestra-io/kestra
-link: https://kestra.io/

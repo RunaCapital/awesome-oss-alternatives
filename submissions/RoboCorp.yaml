@@ -1,9 +1,0 @@
-alts_links:
-- https://www.uipath.com/
-alts_names:
-- UiPath
-category: Robotic Process Automation (RPA)
-company_name: RoboCorp
-description: Set of tooling that allows to create automation packages
-gh_link: https://github.com/robocorp/rcc
-link: https://robocorp.com/

@@ -1,9 +1,0 @@
-alts_links:
-- https://looker.com/
-alts_names:
-- Looker
-category: Metrics store
-company_name: LightDash
-description: Low-code metrics layer, alternative to Looker
-gh_link: https://github.com/lightdash/lightdash
-link: https://www.lightdash.com/

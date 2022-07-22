@@ -1,9 +1,0 @@
-alts_links:
-- https://www.splunk.com/
-alts_names:
-- Splunk
-category: Log Management
-company_name: Graylog
-description: Log management platform
-gh_link: https://github.com/Graylog2/graylog2-server
-link: https://www.graylog.org/

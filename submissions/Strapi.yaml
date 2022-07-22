@@ -1,9 +1,0 @@
-alts_links:
-- https://www.contentful.com/
-alts_names:
-- Contentful
-category: CMS
-company_name: Strapi
-description: Node.js Headless CMS to build customisable APIs
-gh_link: https://github.com/strapi/strapi
-link: https://strapi.io/

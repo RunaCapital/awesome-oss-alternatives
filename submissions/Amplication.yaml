@@ -1,9 +1,0 @@
-alts_links:
-- https://firebase.google.com/
-alts_names:
-- Firebase
-category: Backend as a service
-company_name: Amplication
-description: Backend server with REST and GraphQL APIs to manage core backend needs
-gh_link: https://github.com/amplication/amplication
-link: https://amplication.com/

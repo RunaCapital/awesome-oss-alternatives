@@ -1,9 +1,0 @@
-alts_links:
-- https://1password.com/
-alts_names:
-- 1Password
-category: Password manager
-company_name: BitWarden
-description: Password manager for teams and individuals
-gh_link: https://github.com/bitwarden/server
-link: https://bitwarden.com/

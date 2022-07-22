@@ -1,9 +1,0 @@
-alts_links:
-- https://aws.amazon.com/sagemaker
-alts_names:
-- AWS SageMaker
-category: ML Ops
-company_name: Zilliz
-description: Platform for generating embedding vectors
-gh_link: https://github.com/towhee-io/towhee
-link: https://zilliz.com)'s [Towhe

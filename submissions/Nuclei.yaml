@@ -1,9 +1,0 @@
-alts_links:
-- https://www.tenable.com/products/nessus
-alts_names:
-- Tenable Nessus
-category: Cybersecurity
-company_name: Nuclei
-description: Vulnerability scanner based on simple YAML based DSL
-gh_link: https://github.com/projectdiscovery/nuclei
-link: https://nuclei.projectdiscovery.io/

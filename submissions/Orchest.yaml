@@ -1,9 +1,0 @@
-alts_links:
-- https://fivetran.com/
-alts_names:
-- Fivetran
-category: ELT / ETL
-company_name: Orchest
-description: No-code data pipelines builder
-gh_link: https://github.com/orchest/orchest
-link: https://www.orchest.io/

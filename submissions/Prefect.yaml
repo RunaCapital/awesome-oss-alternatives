@@ -1,9 +1,0 @@
-alts_links:
-- https://fivetran.com/
-alts_names:
-- Fivetran
-category: ELT / ETL
-company_name: Prefect
-description: Data orchestration platform for a modern data stack
-gh_link: https://github.com/prefecthq/prefect
-link: https://www.prefect.io/

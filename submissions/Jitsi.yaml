@@ -1,9 +1,0 @@
-alts_links:
-- https://zoom.us/
-alts_names:
-- Zoom
-category: Video Conferencing
-company_name: Jitsi
-description: Video conferences platform and SDK
-gh_link: https://github.com/jitsi/jitsi-meet
-link: https://jitsi.org/meet

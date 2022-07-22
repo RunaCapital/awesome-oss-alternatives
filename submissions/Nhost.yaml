@@ -1,9 +1,0 @@
-alts_links:
-- https://firebase.google.com/
-alts_names:
-- Firebase
-category: Backend as a service
-company_name: Nhost
-description: Backend server with GraphQL
-gh_link: https://github.com/nhost/nhost
-link: https://nhost.io/

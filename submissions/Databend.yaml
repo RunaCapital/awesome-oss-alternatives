@@ -1,9 +1,0 @@
-alts_links:
-- https://www.snowflake.com
-alts_names:
-- Snowflake
-category: Cloud Data Warehouse
-company_name: Databend
-description: Elastic and Workload-Aware Modern Cloud Data Warehouse
-gh_link: https://github.com/datafuselabs/databend
-link: https://databend.rs

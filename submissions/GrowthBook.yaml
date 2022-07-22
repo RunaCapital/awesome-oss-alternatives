@@ -1,9 +1,0 @@
-alts_links:
-- https://launchdarkly.com/
-alts_names:
-- LaunchDarkly
-category: Feature flag and toggle management
-company_name: GrowthBook
-description: Feature flags and A/B testing
-gh_link: https://github.com/growthbook/growthbook
-link: https://www.growthbook.io/

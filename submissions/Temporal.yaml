@@ -1,9 +1,0 @@
-alts_links:
-- https://zapier.com/
-alts_names:
-- Zapier
-category: Workflow automation
-company_name: Temporal
-description: Workflows as code platform
-gh_link: https://github.com/temporalio/temporal
-link: https://temporal.io/

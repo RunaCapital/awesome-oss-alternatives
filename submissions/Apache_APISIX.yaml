@@ -1,9 +1,0 @@
-alts_links:
-- https://cloud.google.com/apigee
-alts_names:
-- apigee
-category: API Gateway
-company_name: Apache APISIX
-description: Cloud Native API Gateway under the Apache Software Foundation
-gh_link: https://github.com/apache/apisix
-link: https://github.com/apache/apisix

@@ -1,9 +1,0 @@
-alts_links:
-- https://openvpn.net/access-server/
-alts_names:
-- OpenVPN Access Server
-category: Cybersecurity
-company_name: Firezone
-description: VPN Server & Firewall for teams
-gh_link: https://github.com/firezone/firezone
-link: https://www.firez.one/
