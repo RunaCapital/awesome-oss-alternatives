@@ -9,7 +9,7 @@ const config = {
   title: "Awesome OSS Alternatives",
   tagline: "Open-source alternatives to well-known SaaS products",
   url: "https://runacapital.github.io",
-  baseUrl: "/",
+  baseUrl: "/awesome-oss-alternatives/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
