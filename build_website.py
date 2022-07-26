@@ -2,19 +2,35 @@ import yaml
 import os
 
 
+def remove_github_com(s: str):
+    return s.replace("https://github.com/", "")
+
+
+def remove_https(s: str):
+    s = s.replace("https://", "")
+    s = s.replace("http://", "")
+    return s.strip("/")
+
+
 markdown_template = """
-# {company_name}
+# {company_name} 
+
+<a href="{link}"><img src="https://icons.duckduckgo.com/ip3/{clean_link}.ico" alt="Avatar" width="30" height="30" /></a>
+
+[![GitHub stars](https://img.shields.io/github/stars/{clean_gh_link}.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/{clean_gh_link}/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/{clean_gh_link}.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/{clean_gh_link}/network/) [![GitHub issues](https://img.shields.io/github/issues/{clean_gh_link}.svg)](https://GitHub.com/N{clean_gh_link}/issues/)
+
+[![GitHub license](https://img.shields.io/github/license/{clean_gh_link}.svg)](https://github.com/{clean_gh_link}/blob/master/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/{clean_gh_link}.svg)](https://GitHub.com/{clean_gh_link}/graphs/contributors/) 
 
 **Category**: {category}
 
-**Github**: [{gh_link}]({gh_link})
+**Github**: [{clean_gh_link}]({gh_link})
 
-**Website**: [{link}]({link})
+**Website**: [{clean_link}]({link})
 
 **Description**:
 {description}
 
-**Alternatives**: {alts}
+**Alternative to**: {alts}
 """
 
 SPECIAL_MAPPING = {
@@ -70,7 +86,9 @@ def create_markdown_for_companies(companies):
                     company_name=company["company_name"],
                     category=company["category"],
                     gh_link=company["gh_link"],
+                    clean_gh_link=remove_github_com(company["gh_link"]),
                     link=company["link"],
+                    clean_link=remove_https(company["link"]),
                     description=company["description"],
                     alts=generate_alternative_md(
                         company["alts_names"], company["alts_links"]
