@@ -1,0 +1,9 @@
+alts_links:
+- https://looker.com/
+alts_names:
+- Looker
+category: Metrics store
+company_name: Evidence
+description: Lightweight BI using SQL and markdown
+gh_link: https://github.com/evidence-dev/evidence
+link: https://evidence.dev/
