@@ -212,3 +212,6 @@ Workflow automation|[Temporal](https://temporal.io/)|Workflows as code platform|
 
 ## Useful Links
 - Great [article](https://rajko-rad.medium.com/the-rise-of-open-source-challengers-4a3d93932425) on open-source challengers by Rajko Radovanovic
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=RunaCapital/awesome-oss-alternatives&type=Date)](https://star-history.com/#RunaCapital/awesome-oss-alternatives&Date)
