@@ -1,0 +1,11 @@
+alts_links:
+- https://plextrac.com//
+- https://vulcan.io/
+alts_names:
+- Plextrac
+- Vulcan
+category: Cybersecurity
+company_name: Faraday
+description: Open Source Vulnerability Management and Orchestration Platform
+gh_link: https://github.com/infobyte/faraday
+link: https://faradaysec.com
