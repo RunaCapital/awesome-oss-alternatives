@@ -1,0 +1,9 @@
+alts_links:
+- https://www.heroku.com/
+alts_names:
+- Heroku
+category: Platform as a service
+company_name: Dokku
+description: An open source PAAS alternative to Heroku
+gh_link: https://github.com/dokku/dokku
+link: https://dokku.com/
