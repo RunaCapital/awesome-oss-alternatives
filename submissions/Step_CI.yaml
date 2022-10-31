@@ -1,0 +1,11 @@
+alts_links:
+- https://www.checklyhq.com
+- https://www.postman.com/
+alts_names:
+- Checkly
+- Postman
+category: API Platform
+company_name: Step CI
+description: API Testing and Monitoring
+gh_link: https://github.com/stepci/stepci
+link: https://stepci.com/

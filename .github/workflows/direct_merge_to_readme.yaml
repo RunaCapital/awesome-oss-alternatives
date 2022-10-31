@@ -1,0 +1,38 @@
+name: Create YAML on direct merge to README
+
+on:
+  pull_request:
+    paths:
+      - "README.md"
+    types:
+      - closed
+
+jobs:
+  if_merged:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner.
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9" #install the python needed
+      - name: install dependencies
+        run: pip install pyyaml
+      - name: sort readme # sorting readmde
+        run: |
+          python sort.py
+      - name: execute py script - create YAMLs # run file
+        run: |
+          python create_yamls.py
+      - name: Commit files # transfer the new html files back into the repository
+        run: |
+          git config --local user.name ${{ github.actor }}
+          git add --all
+          git commit -m "Generating new YAMLs from the PR merge"
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true

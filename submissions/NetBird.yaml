@@ -1,0 +1,11 @@
+alts_links:
+- https://tailscale.com/
+- https://openvpn.net/
+alts_names:
+- Tailscale
+- OpenVPN
+category: Cybersecurity
+company_name: NetBird
+description: Zero Configuration Mesh VPN for Business
+gh_link: https://github.com/netbirdio/netbird
+link: https://netbird.io

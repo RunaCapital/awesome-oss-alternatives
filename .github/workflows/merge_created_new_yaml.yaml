@@ -1,0 +1,35 @@
+name: Build README from new YAML
+
+on:
+  pull_request:
+    paths:
+      - "submissions/**.yaml"
+    types:
+      - closed
+
+jobs:
+  if_merged:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner.
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9" #install the python needed
+      - name: install dependencies
+        run: pip install pyyaml
+      - name: execute py script - build README # run file
+        run: |
+          python build_readme.py
+      - name: Commit files # transfer the new html files back into the repository
+        run: |
+          git config --local user.name ${{ github.actor }}
+          git add --all
+          git commit -m "Rebuild README after merging PR with a new YAML"
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true

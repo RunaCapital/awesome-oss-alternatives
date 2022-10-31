@@ -1,0 +1,13 @@
+alts_links:
+- https://www.courier.com/
+- https://www.magicbell.com/
+- https://knock.app/
+alts_names:
+- Courier
+- MagicBell
+- Knock
+category: Communication
+company_name: Novu
+description: Components and APIs for email, sms, direct and push
+gh_link: https://github.com/novuhq/novu
+link: https://novu.co/

@@ -1,0 +1,15 @@
+alts_links:
+- https://openvpn.net
+- https://ngrok.com
+- https://www.oray.com
+- https://aws.amazon.com/vpc/
+alts_names:
+- OpenVPN
+- Ngrok
+- Oray
+- AWS VPC
+category: VPN as a Service
+company_name: OmniEdge
+description: 'No-code P2P layer-2 mesh VPN for enterprise with zero config '
+gh_link: https://github.com/omniedgeio/omniedge
+link: https://omniedge.io/

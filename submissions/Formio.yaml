@@ -1,0 +1,11 @@
+alts_links:
+- https://vueform.com/
+- https://www.typeform.com/
+alts_names:
+- Vueform
+- Typeform
+category: Form Building
+company_name: Formio
+description: ' A Form and Data Management Platform for Progressive Web Applications'
+gh_link: https://github.com/formio/formio
+link: https://form.io/

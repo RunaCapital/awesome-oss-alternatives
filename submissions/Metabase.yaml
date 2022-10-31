@@ -1,0 +1,13 @@
+alts_links:
+- https://www.tableau.com/
+- https://powerbi.microsoft.com/
+- https://datastudio.google.com/
+alts_names:
+- Tableau
+- Power BI
+- DataStudio
+category: Business Intelligence
+company_name: Metabase
+description: Business intelligence software
+gh_link: https://github.com/metabase/metabase
+link: https://www.metabase.com/

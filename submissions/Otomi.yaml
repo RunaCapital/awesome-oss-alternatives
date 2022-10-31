@@ -1,0 +1,9 @@
+alts_links:
+- https://www.heroku.com/
+alts_names:
+- Heroku
+category: Platform as a service
+company_name: Otomi
+description: Self-hosted PaaS for Kubernetes
+gh_link: https://github.com/redkubes/otomi-core
+link: https://otomi.io

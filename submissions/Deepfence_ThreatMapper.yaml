@@ -1,0 +1,10 @@
+alts_links:
+- https://www.paloaltonetworks.com/prisma/cloud
+alts_names:
+- Palo Alto Prisma
+category: Cloud-Native Application Protection Platform
+company_name: Deepfence ThreatMapper
+description: Apache v2, powerful runtime vulnerability and compliance scanner for
+  kubernetes, virtual machines, cloud and serverless.
+gh_link: https://github.com/deepfence/ThreatMapper
+link: https://github.com/deepfence/ThreatMapper

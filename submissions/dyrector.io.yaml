@@ -1,0 +1,9 @@
+alts_links:
+- https://www.heroku.com/
+alts_names:
+- Heroku
+category: Platform as a service
+company_name: dyrector.io
+description: Simplify container delivery without vendor lock
+gh_link: https://github.com/dyrector-io/dyrectorio
+link: https://dyrector.io

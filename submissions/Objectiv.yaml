@@ -1,0 +1,13 @@
+alts_links:
+- https://analytics.google.com/analytics/web/
+- https://amplitude.com/
+- https://mixpanel.com/
+alts_names:
+- Google Analytics
+- Amplitude
+- Mixpanel
+category: Product Analytics
+company_name: Objectiv
+description: Product analytics infrastructure
+gh_link: https://github.com/objectiv/objectiv-analytics
+link: https://objectiv.io/

@@ -1,0 +1,9 @@
+alts_links:
+- https://www.elastic.co/elastic-stack/
+alts_names:
+- Elastic Cloud
+category: Enterprise Search
+company_name: Manticore Search
+description: Easy to use open source fast database for search
+gh_link: https://github.com/manticoresoftware/manticoresearch/
+link: https://manticoresearch.com/
