@@ -1,0 +1,13 @@
+alts_links:
+- https://www.splunk.com/
+- https://www.elastic.co/elastic-stack/
+alts_names:
+- Splunk
+- Elastic Cloud
+category: Cybersecurity
+company_name: Matano
+description: Open source cloud-native security lake platform (SIEM alternative) for
+  threat hunting, detection & response, and cybersecurity analytics at petabyte scale
+  on AWS
+gh_link: https://github.com/matanolabs/matano
+link: https://www.matano.dev
