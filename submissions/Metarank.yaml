@@ -1,0 +1,11 @@
+alts_links:
+- https://aws.amazon.com/personalize/
+- https://www.tecton.ai/
+alts_names:
+- AWS Personalize
+- Tecton
+category: ML Ops
+company_name: Metarank
+description: AutoML style personalized ranking
+gh_link: https://github.com/metarank/metarank
+link: https://metarank.ai

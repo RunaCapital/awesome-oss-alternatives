@@ -1,0 +1,11 @@
+alts_links:
+- https://smartbear.com/
+- https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/
+alts_names:
+- Smartbear
+- Newman
+category: API Platform
+company_name: Keploy
+description: e2e Testing and Data Mocking
+gh_link: https://github.com/keploy/keploy
+link: https://keploy.io/

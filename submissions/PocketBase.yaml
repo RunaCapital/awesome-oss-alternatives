@@ -1,0 +1,9 @@
+alts_links:
+- https://firebase.google.com/
+alts_names:
+- Firebase
+category: Backend as a service
+company_name: PocketBase
+description: Backend server with REST APIs to manage core backend needs
+gh_link: https://github.com/pocketbase/pocketbase
+link: https://pocketbase.io/
