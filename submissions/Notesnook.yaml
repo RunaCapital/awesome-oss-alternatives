@@ -1,0 +1,12 @@
+alts_links:
+- https://evernote.com/
+- https://www.onenote.com/n
+alts_names:
+- Evernote
+- OneNote
+category: Notetaking
+company_name: Notesnook
+description: A fully open source & end-to-end encrypted note taking alternative to
+  Evernote.
+gh_link: https://github.com/streetwriters/notesnook
+link: https://notesnook.com/
