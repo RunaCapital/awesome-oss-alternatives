@@ -1,0 +1,11 @@
+alts_links:
+- https://okta.com/
+- https://auth0.com/
+alts_names:
+- Okta
+- Auth0
+category: Auth & SSO
+company_name: Warrant
+description: Authorization and access control as a service
+gh_link: https://github.com/warrant-dev/warrant
+link: https://warrant.dev/
