@@ -2,7 +2,7 @@ alts_links:
 - https://www.docusign.com/
 alts_names:
 - DocuSign
-category: Signer
+category: Digital Signature
 company_name: LibreSign
 description: Digital document signer
 gh_link: https://github.com/LibreSign/libresign

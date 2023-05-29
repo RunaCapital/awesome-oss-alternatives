@@ -1,0 +1,15 @@
+alts_links:
+- https://www.lokalise.com/
+- https://www.transifex.com/
+- https://crowdin.com/
+- https://poeditor.com/
+alts_names:
+- Lokalise
+- Transifex
+- Crowdin
+- POEditor
+category: Localization (i18n)
+company_name: Tolgee
+description: Developer & translator friendly web-based localization platform
+gh_link: https://github.com/tolgee/tolgee-platform
+link: https://tolgee.io

@@ -1,0 +1,15 @@
+alts_links:
+- https://linear.app/
+- https://www.atlassian.com/software/jira
+- https://trello.com/
+- https://height.app/
+alts_names:
+- Linear
+- JIRA
+- Trello
+- Height
+category: Project Management
+company_name: Plane
+description: Alternative to Linear, JIRA, Trello and Height
+gh_link: https://github.com/makeplane/plane
+link: https://plane.so/

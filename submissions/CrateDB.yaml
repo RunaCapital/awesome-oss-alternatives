@@ -1,0 +1,9 @@
+alts_links:
+- https://kx.com/developers/
+alts_names:
+- Kdb+
+category: Timeseries database
+company_name: CrateDB
+description: Distributed SQL database for real-time analytics of time series data
+gh_link: '"https://github.com/crate/crate"'
+link: https://crate.io/
