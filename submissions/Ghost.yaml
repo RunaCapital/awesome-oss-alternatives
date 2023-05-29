@@ -1,0 +1,11 @@
+alts_links:
+- https://www.medium.com/
+- https://substack.com/
+alts_names:
+- Medium
+- Substack
+category: CMS
+company_name: Ghost
+description: Headless Node.js publishing platform
+gh_link: https://github.com/tryghost/ghost
+link: https://ghost.org/
