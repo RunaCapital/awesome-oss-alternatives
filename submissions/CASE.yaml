@@ -1,0 +1,9 @@
+alts_links:
+- https://firebase.google.com/
+alts_names:
+- Firebase
+category: Backend as a service
+company_name: CASE
+description: Lightweight Backend-as-a-Service with essential features
+gh_link: https://github.com/casejs/case
+link: https://case.app
