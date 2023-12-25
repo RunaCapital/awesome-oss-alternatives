@@ -1,0 +1,9 @@
+alts_links:
+- https://fivetran.com/
+alts_names:
+- Fivetran
+category: ELT / ETL
+company_name: Benthos
+description: Data streaming processor with yaml-driven pipeline configuration
+gh_link: https://github.com/benthosdev/benthos
+link: https://benthos.dev/
