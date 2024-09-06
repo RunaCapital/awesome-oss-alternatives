@@ -1,0 +1,11 @@
+alts_links:
+- https://buffer.com/
+- https://hootsuite.com/
+alts_names:
+- Buffer
+- Hootsuite
+category: Social Media
+company_name: Postiz
+description: Self-hosted social media scheduling tool
+gh_link: https://github.com/gitroomhq/postiz-app
+link: https://postiz.com
