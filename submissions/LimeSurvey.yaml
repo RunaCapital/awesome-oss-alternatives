@@ -1,0 +1,11 @@
+alts_links:
+- https://www.surveymonkey.com/
+- https://www.qualtrics.com/
+alts_names:
+- SurveyMonkey
+- Qualtrics
+category: Surveys
+company_name: LimeSurvey
+description: Online survey platform
+gh_link: https://github.com/LimeSurvey/LimeSurvey
+link: https://www.limesurvey.org/
