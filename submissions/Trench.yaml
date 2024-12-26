@@ -1,0 +1,13 @@
+alts_links:
+- https://segment.io
+- https://analytics.google.com
+- https://amplitude.com
+alts_names:
+- Segment
+- Google Analytics
+- Amplitude
+category: Product Analytics
+company_name: Trench
+description: Open source analytics infrastructure
+gh_link: https://github.com/FrigadeHQ/trench
+link: https://trench.dev
