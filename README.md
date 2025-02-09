@@ -241,7 +241,8 @@ Website analytics|[Umami](https://umami.is)|Google Analytics alternative|<a href
 Workflow automation| [Activepieces](https://www.activepieces.com) | No-code business automation tool |<a href=https://github.com/activepieces/activepieces><img src="https://img.shields.io/github/stars/activepieces/activepieces?style=social" width=150/></a> |[Zapier](https://www.zapier.com/), [Tray](https://tray.io/)
 Workflow automation|[N8N](https://n8n.io/)|Node-based workflow automation tool for developers|<a href=https://github.com/n8n-io/n8n><img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" width=150/></a>|[Zapier](https://zapier.com/)
 Workflow automation|[Pipedream](https://pipedream.com/)|Workflow automation and API integration platform|<a href=https://github.com/PipedreamHQ/pipedream><img src="https://img.shields.io/github/stars/PipedreamHQ/pipedream?style=social" width=150/></a>|[Zapier](https://zapier.com/), [Integromat](https://www.integromat.com/)|
-Workflow automation|[Temporal](https://temporal.io/)|Workflows as code platform|<a href=https://github.com/temporalio/temporal><img src="https://img.shields.io/github/stars/temporalio/temporal?style=social" width=150/></a>|[Zapier](https://zapier.com/)
+Workflow automation|[Temporal](https://temporal.io/)|Workflows as code platform|<a href=https://github.com/temporalio/temporal><img src="https://img.shields.io/github/stars/temporalio/temporal?style=social" width=150/></a>|[Zapier](https://zapier.com/)|
+Mobile CD|[Capgo](https://capgo.app/)|Live updates for Capacitor app|<a href=https://github.com/Cap-go/capgo><img src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=social" width=150/></a>|[Ionic Appflow](https://ionic.io/appflow)
 
 <!-- END STARTUP LIST -->
 
