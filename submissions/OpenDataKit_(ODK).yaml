@@ -1,0 +1,13 @@
+alts_links:
+- https://www.surveycto.com/
+- https://www.kobotoolbox.org/
+alts_names:
+- SurveyCTO
+- KoboToolbox
+category: Form Building
+company_name: OpenDataKit (ODK)
+description: Open-source mobile data collection tools
+gh_link: https://github.com/getodk/central
+link: https://getodk.org/
+
+
