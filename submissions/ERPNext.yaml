@@ -1,11 +1,13 @@
 alts_links:
 - https://www.sap.com/products/business-one.html
+- https://www.netsuite.com/
 - https://odoo.com/
 alts_names:
 - SAP Business One
+- Oracle NetSuite
 - Odoo
 category: ERP
 company_name: ERPNext
-description: ' Agile, modern, module based Business management suite'
+description: Agile, modern, module based business management suite for SMEs
 gh_link: https://github.com/frappe/erpnext
-link: https://erpnext.com)
+link: https://erpnext.com

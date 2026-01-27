@@ -1,0 +1,13 @@
+alts_links:
+- https://www.temenos.com/
+- https://www.oracle.com/industries/financial-services/flexcube/
+alts_names:
+- Temenos
+- Oracle FLEXCUBE
+category: Financial Service
+company_name: Mifos X
+description: Open-source core banking system
+gh_link: https://github.com/openMF/Deprecated-mifosx
+link: https://mifos.org/
+
+

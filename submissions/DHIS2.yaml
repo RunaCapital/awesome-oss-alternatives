@@ -1,0 +1,13 @@
+alts_links:
+- https://www.epic.com/
+- https://www.oracle.com/health/
+alts_names:
+- Epic
+- Oracle Health (Cerner)
+category: Health Information System
+company_name: DHIS2
+description: Open-source health information system used globally
+gh_link: https://github.com/dhis2/dhis2-core
+link: https://dhis2.org/
+
+

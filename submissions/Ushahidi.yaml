@@ -1,0 +1,13 @@
+alts_links:
+- https://www.esri.com/en-us/arcgis/products/arcgis-hub/overview
+- https://www.mapbox.com/
+alts_names:
+- ArcGIS Hub
+- Mapbox
+category: Community Platform
+company_name: Ushahidi
+description: Crisis mapping and civic engagement platform
+gh_link: https://github.com/ushahidi/platform
+link: https://www.ushahidi.com/
+
+
