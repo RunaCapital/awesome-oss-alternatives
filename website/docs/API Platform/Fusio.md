@@ -11,7 +11,7 @@
 
 **Github**: [apioo/fusio](https://github.com/apioo/fusio)
 
-**Website**: [github.com/apioo/fusio](https://github.com/apioo/fusio)
+**Website**: [fusio-project.org](https://www.fusio-project.org/)
 
 **Description**:
 API management platform

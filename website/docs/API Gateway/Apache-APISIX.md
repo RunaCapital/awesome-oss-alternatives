@@ -11,7 +11,7 @@
 
 **Github**: [apache/apisix](https://github.com/apache/apisix)
 
-**Website**: [github.com/apache/apisix](https://github.com/apache/apisix)
+**Website**: [apisix.apache.org](https://apisix.apache.org/)
 
 **Description**:
 Cloud Native API Gateway under the Apache Software Foundation
