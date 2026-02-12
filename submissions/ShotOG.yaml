@@ -1,0 +1,9 @@
+alts_links:
+- https://vercel.com/docs/functions/og-image-generation
+alts_names:
+- Vercel OG
+category: OG Image Generation
+company_name: ShotOG
+description: OG image generation API running on Cloudflare Workers edge
+gh_link: https://github.com/nicepkg/shotog
+link: https://shotog.2214962083.workers.dev
