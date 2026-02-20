@@ -29,6 +29,7 @@ All startups in the list are sorted by categories and sorted in alphabetical ord
 
 |Category|Company|Description|GitHub Stars|Alternative to|
 |:-------|:------|:----------|:----------:|:------------:|
+AI Agent Orchestration|[Cordum](https://github.com/cordum-io/cordum)|Safety-first agent orchestration platform with policy evaluation, workflow DAGs, and real-time dashboard|<a href=https://github.com/cordum-io/cordum><img src="https://img.shields.io/github/stars/cordum-io/cordum?style=social" width=150/></a>|[LangGraph Cloud](https://www.langchain.com/langgraph-cloud), [CrewAI Enterprise](https://www.crewai.com/), [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/)
 API Gateway|[Apache APISIX](https://github.com/apache/apisix)|Cloud Native API Gateway under the Apache Software Foundation|<a href=https://github.com/apache/apisix><img src="https://img.shields.io/github/stars/apache/apisix?style=social" width=150/></a>|[apigee](https://cloud.google.com/apigee)
 API Platform|[Firecamp](https://firecamp.dev/)|DX first open-source API devtool|<a href=https://github.com/firecamp-dev/firecamp><img src="https://img.shields.io/github/stars/firecamp-dev/firecamp?style=social" width=150/></a>|[Postman](https://www.postman.com/)
 API Platform|[Fusio](https://github.com/apioo/fusio)|API management platform|<a href=https://github.com/apioo/fusio><img src="https://img.shields.io/github/stars/apioo/fusio?style=social" width=150/></a>|[Postman](https://www.postman.com/)
