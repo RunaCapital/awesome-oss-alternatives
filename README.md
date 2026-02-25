@@ -29,6 +29,7 @@ All startups in the list are sorted by categories and sorted in alphabetical ord
 
 |Category|Company|Description|GitHub Stars|Alternative to|
 |:-------|:------|:----------|:----------:|:------------:|
+AI Assistants|[Off Grid](https://github.com/alichherawalla/off-grid-mobile)|On-device LLM, vision & image generation for iOS & Android — fully offline, no API keys|<a href=https://github.com/alichherawalla/off-grid-mobile><img src="https://img.shields.io/github/stars/alichherawalla/off-grid-mobile?style=social" width=150/></a>|[ChatGPT](https://chat.openai.com), [Google Gemini](https://gemini.google.com)
 API Gateway|[Apache APISIX](https://github.com/apache/apisix)|Cloud Native API Gateway under the Apache Software Foundation|<a href=https://github.com/apache/apisix><img src="https://img.shields.io/github/stars/apache/apisix?style=social" width=150/></a>|[apigee](https://cloud.google.com/apigee)
 API Platform|[Firecamp](https://firecamp.dev/)|DX first open-source API devtool|<a href=https://github.com/firecamp-dev/firecamp><img src="https://img.shields.io/github/stars/firecamp-dev/firecamp?style=social" width=150/></a>|[Postman](https://www.postman.com/)
 API Platform|[Fusio](https://github.com/apioo/fusio)|API management platform|<a href=https://github.com/apioo/fusio><img src="https://img.shields.io/github/stars/apioo/fusio?style=social" width=150/></a>|[Postman](https://www.postman.com/)
