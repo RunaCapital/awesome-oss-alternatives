@@ -248,3 +248,4 @@ Workflow automation|[Temporal](https://temporal.io/)|Workflows as code platform|
 
 ## Useful Links
 - Great [article](https://rajko-rad.medium.com/the-rise-of-open-source-challengers-4a3d93932425) on open-source challengers by Rajko Radovanovic
+- [Open Source Launch Marketing Playbook](https://github.com/Gingiris/gingiris-opensource) - Complete SOP for OSS project launches. GitHub star growth, KOL partnerships, Reddit marketing. By ex-AFFiNE COO (60k+ stars).
