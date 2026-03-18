@@ -1,0 +1,11 @@
+alts_links:
+- https://todoist.com/
+- https://ticktick.com/
+alts_names:
+- Todoist
+- TickTick
+category: Project Management
+company_name: Super Productivity
+description: Task management & time tracking app with Jira, GitHub & GitLab integration
+gh_link: https://github.com/johannesjo/super-productivity
+link: https://super-productivity.com/
