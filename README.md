@@ -28,6 +28,7 @@ All startups in the list are sorted by categories and sorted in alphabetical ord
 <!-- BEGIN STARTUP LIST -->
 
 |Category|Company|Description|GitHub Stars|Alternative to|
+|Bug Reporting|[Glitch](https://github.com/Ankitajainkuniya/glitch-widget)|AI bug reporting with voice, screenshots, screen recording, AI triage. Open-source widget.|![Stars](https://img.shields.io/github/stars/Ankitajainkuniya/glitch-widget)|Marker.io, BetterBugs, Jam.dev|
 |:-------|:------|:----------|:----------:|:------------:|
 API Gateway|[Apache APISIX](https://github.com/apache/apisix)|Cloud Native API Gateway under the Apache Software Foundation|<a href=https://github.com/apache/apisix><img src="https://img.shields.io/github/stars/apache/apisix?style=social" width=150/></a>|[apigee](https://cloud.google.com/apigee)
 API Platform|[Firecamp](https://firecamp.dev/)|DX first open-source API devtool|<a href=https://github.com/firecamp-dev/firecamp><img src="https://img.shields.io/github/stars/firecamp-dev/firecamp?style=social" width=150/></a>|[Postman](https://www.postman.com/)
