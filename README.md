@@ -5,6 +5,7 @@ Awesome list of open-source startup alternatives to established SaaS products. M
 
 Also checkout our [ROSS index](https://runacap.com/ross-index/): fastest-growing open-source startups, every quarter.
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=RunaCapital_awesome-oss-alternatives) - Free social feed for GitHub. Follow developers, discover trending repos, see what your stack is building.
 ## Criteria
 Open-source company is added to the list if: 
 1. Its product is strongly based on an open-source repo 
