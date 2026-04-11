@@ -1,0 +1,11 @@
+alts_links:
+- https://ahrefs.com/
+- https://www.semrush.com/
+alts_names:
+- Ahrefs
+- SEMrush
+category: Marketing SaaS
+company_name: toprank
+description: Open-source agentic SEO and Google Ads toolkit for Claude Code. Connects Google Search Console and Google Ads API to audit traffic, rewrite meta tags, generate JSON-LD schema, and ship fixes.
+gh_link: https://github.com/nowork-studio/toprank
+link: https://www.adsagent.org/
