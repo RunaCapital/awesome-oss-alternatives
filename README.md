@@ -248,3 +248,4 @@ Workflow automation|[Temporal](https://temporal.io/)|Workflows as code platform|
 
 ## Useful Links
 - Great [article](https://rajko-rad.medium.com/the-rise-of-open-source-challengers-4a3d93932425) on open-source challengers by Rajko Radovanovic
+* [Face-Efface Photo](https://xipinocode.github.io/face-efface-photo/) - A 100% private, browser-based AI tool for face blurring. Open source alternative to cloud blurring tools.
