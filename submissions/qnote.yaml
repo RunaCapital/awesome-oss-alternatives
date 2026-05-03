@@ -1,0 +1,13 @@
+alts_links:
+- https://evernote.com/
+- https://www.onenote.com/
+- https://simplenote.com/
+alts_names:
+- Evernote
+- OneNote
+- Simplenote
+category: Notetaking
+company_name: qnote
+description: Minimal frameless notepad with local-only storage, no telemetry. Markdown live preview, real PDF export via Typst, OCR via Tesseract, automatic version history.
+gh_link: https://github.com/Omibranch/qnote
+link: https://github.com/Omibranch/qnote
