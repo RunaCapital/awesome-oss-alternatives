@@ -1,0 +1,17 @@
+alts_links:
+- https://www.netsuite.com/
+- https://www.sage.com/en-us/sage-business-cloud/intacct/
+- https://www.rillet.com/
+- https://quickbooks.intuit.com/
+- https://www.xero.com/
+alts_names:
+- NetSuite
+- Sage Intacct
+- Rillet
+- QuickBooks
+- Xero
+category: ERP
+company_name: ERPClaw
+description: AI-native open-source ERP suite. 46 modules, 14 industry verticals. Self-hosted on SQLite or PostgreSQL.
+gh_link: https://github.com/avansaber/erpclaw
+link: https://erpclaw.ai
