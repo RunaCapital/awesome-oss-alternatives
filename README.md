@@ -248,3 +248,4 @@ Workflow automation|[Temporal](https://temporal.io/)|Workflows as code platform|
 
 ## Useful Links
 - Great [article](https://rajko-rad.medium.com/the-rise-of-open-source-challengers-4a3d93932425) on open-source challengers by Rajko Radovanovic
+* [WebExtract](https://scrapersaas.surge.sh) — Open-source alternative to ScrapingBee/Apify. AI-powered URL-to-JSON extraction API.
