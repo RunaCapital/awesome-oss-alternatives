@@ -1,0 +1,11 @@
+alts_links:
+- https://www.cognition.ai/
+- https://www.factory.ai/
+alts_names:
+- Devin
+- Factory AI
+category: AI Coding
+company_name: Ivy Tendril
+description: Local-first AI coding orchestrator with plan-based lifecycle and verification gates
+gh_link: https://github.com/Ivy-Interactive/Ivy-Tendril
+link: https://tendril.ivy.app

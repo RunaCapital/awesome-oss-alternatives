@@ -29,6 +29,7 @@ All startups in the list are sorted by categories and sorted in alphabetical ord
 
 |Category|Company|Description|GitHub Stars|Alternative to|
 |:-------|:------|:----------|:----------:|:------------:|
+AI Coding|[Ivy Tendril](https://tendril.ivy.app)|Local-first AI coding orchestrator with plan-based lifecycle and verification gates|<a href=https://github.com/Ivy-Interactive/Ivy-Tendril><img src="https://img.shields.io/github/stars/Ivy-Interactive/Ivy-Tendril?style=social" width=150/></a>|[Devin](https://www.cognition.ai/), [Factory AI](https://www.factory.ai/)
 API Gateway|[Apache APISIX](https://github.com/apache/apisix)|Cloud Native API Gateway under the Apache Software Foundation|<a href=https://github.com/apache/apisix><img src="https://img.shields.io/github/stars/apache/apisix?style=social" width=150/></a>|[apigee](https://cloud.google.com/apigee)
 API Platform|[Firecamp](https://firecamp.dev/)|DX first open-source API devtool|<a href=https://github.com/firecamp-dev/firecamp><img src="https://img.shields.io/github/stars/firecamp-dev/firecamp?style=social" width=150/></a>|[Postman](https://www.postman.com/)
 API Platform|[Fusio](https://github.com/apioo/fusio)|API management platform|<a href=https://github.com/apioo/fusio><img src="https://img.shields.io/github/stars/apioo/fusio?style=social" width=150/></a>|[Postman](https://www.postman.com/)
