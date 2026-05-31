@@ -22,6 +22,8 @@ Any questions or suggestions? Feel free to DM project maintainer [@garrrikkotua]
 
 ## Startup List
 
+
+- [GeoInfomatic](https://geoinfomatic.pythonanywhere.com) — Korean isochrone-based neighborhood accessibility analyzer. Bootstrapped freemium alternative to commercial Walk Score / location intelligence tools.
 All startups in the list are sorted by categories and sorted in alphabetical order. If you click on the stars badge you will get to the product's repo. 
 **Have a good search!**
 
