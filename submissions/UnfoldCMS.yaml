@@ -1,0 +1,11 @@
+alts_links:
+- https://wordpress.com/
+- https://www.contentful.com/
+alts_names:
+- WordPress
+- Contentful
+category: CMS
+company_name: UnfoldCMS
+description: Self-hosted Laravel + React CMS with headless REST API and one-time pricing
+gh_link: https://github.com/hpakdaman/unfoldcms
+link: https://unfoldcms.com/
