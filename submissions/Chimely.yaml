@@ -1,0 +1,14 @@
+alts_links:
+- https://knock.app/
+- https://www.courier.com/
+- https://www.magicbell.com/
+- https://novu.co/
+alts_names:
+- Knock
+- Courier
+- MagicBell
+- Novu
+category: Communication
+company_name: Chimely
+description: Self-hostable in-app notification inbox infrastructure with a drop-in <Inbox /> React component
+gh_link: https://github.com/dodopayments/chimely
