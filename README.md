@@ -245,6 +245,7 @@ Workflow automation|[Pipedream](https://pipedream.com/)|Workflow automation and 
 Workflow automation|[Temporal](https://temporal.io/)|Workflows as code platform|<a href=https://github.com/temporalio/temporal><img src="https://img.shields.io/github/stars/temporalio/temporal?style=social" width=150/></a>|[Zapier](https://zapier.com/)
 
 <!-- END STARTUP LIST -->
+- [Let Me Think](https://letmethink.cc/) - A digital wellbeing product studio creating calm tools for attention, creativity, and real connection.
 
 ## Useful Links
 - Great [article](https://rajko-rad.medium.com/the-rise-of-open-source-challengers-4a3d93932425) on open-source challengers by Rajko Radovanovic
