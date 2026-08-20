@@ -1,0 +1,11 @@
+alts_links:
+- https://wazuh.com/
+- https://www.datadoghq.com/
+alts_names:
+- Wazuh
+- DataDog Security
+category: Cybersecurity
+company_name: BinaryWebEngine
+description: All-in-one Linux security monitoring engine bundling WAF, HIDS, NIDS, and threat intelligence dashboard by EquiSaaS BD.
+gh_link: https://github.com/EquiSaaS-BD/BinaryWebEngine
+link: https://equisaas-bd.com/projects/
