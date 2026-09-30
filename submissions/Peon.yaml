@@ -1,0 +1,11 @@
+alts_links:
+- https://www.heroku.com/
+- https://vercel.com/
+alts_names:
+- Heroku
+- Vercel
+category: Platform as a service
+company_name: Peon
+description: Open-source self-hosted Docker PaaS for Git apps, Compose, databases, and static sites
+gh_link: https://github.com/Peon-sh/Peon
+link: https://peon.sh/
