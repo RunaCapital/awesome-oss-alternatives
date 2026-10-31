@@ -1,0 +1,15 @@
+alts_links:
+- https://www.salesforce.com/
+- https://www.hubspot.com/
+- https://attio.com/
+- https://www.pipedrive.com/
+alts_names:
+- Salesforce
+- HubSpot
+- Attio
+- Pipedrive
+category: CRM
+company_name: Relaticle
+description: Open-source CRM with a built-in MCP server for AI agents
+gh_link: https://github.com/relaticle/relaticle
+link: https://relaticle.com/
