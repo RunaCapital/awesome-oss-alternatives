@@ -1,0 +1,11 @@
+alts_links:
+- https://moovitapp.com/
+- https://citymapper.com/
+alts_names:
+- Moovit
+- Citymapper
+category: Maps / Navigation
+company_name: Headway
+description: Multi-modal GTFS transit timetables and frequency explorer
+gh_link: https://github.com/shivrajsinhzala/headway
+link: https://headway.shivrajsinh.in
