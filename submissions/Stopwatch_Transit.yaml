@@ -1,0 +1,11 @@
+alts_links:
+- https://moovitapp.com/
+- https://citymapper.com/
+alts_names:
+- Moovit
+- Citymapper
+category: Maps / Navigation
+company_name: Stopwatch Transit
+description: Open public transit timetables and schedule feeds across 120+ networks
+gh_link: https://github.com/shivrajsinhzala/transit-timetables
+link: https://transit.shivrajsinh.in
