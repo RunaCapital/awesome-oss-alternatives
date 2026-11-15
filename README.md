@@ -247,4 +247,5 @@ Workflow automation|[Temporal](https://temporal.io/)|Workflows as code platform|
 <!-- END STARTUP LIST -->
 
 ## Useful Links
+- [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory and [MCP server](https://nostairsplease.com/mcp) covering small stages in all 50 states.
 - Great [article](https://rajko-rad.medium.com/the-rise-of-open-source-challengers-4a3d93932425) on open-source challengers by Rajko Radovanovic
